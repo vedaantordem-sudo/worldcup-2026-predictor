@@ -49,7 +49,7 @@ GROUPS = {
     "L":["Belgium","Uruguay","Sweden","Saudi Arabia"],
 }
 
-@st.cache_data
+@st.cache_resource
 def load_data():
     tf = pd.read_csv("data/team_features.csv")
     sr = pd.read_csv("data/simulation_results.csv")
