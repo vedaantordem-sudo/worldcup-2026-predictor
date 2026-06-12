@@ -1,3 +1,4 @@
+# Data files (too large for GitHub)
 data/matches.csv
 data/goals.csv
 data/team_appearances.csv
@@ -6,9 +7,13 @@ data/penalty_kicks.csv
 data/xg_data.csv
 data/match_dataset.csv
 data/api_matches_2026.csv
-data/player_summary.csv
+data/squads_2026.csv
+
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.DS_Store
 .env
+
+# Mac
+.DS_Store
