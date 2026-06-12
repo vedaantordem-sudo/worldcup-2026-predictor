@@ -35,18 +35,18 @@ API_HEADERS = {"X-Auth-Token": API_KEY}
 NAME_MAP = {"Czechia":"Czech Republic","Bosnia-Herzegovina":"Bosnia and Herzegovina","Turkiye":"Turkey","IR Iran":"Iran","Korea Republic":"South Korea","Congo DR":"DR Congo","Côte d'Ivoire":"Cote dIvoire"}
 
 GROUPS = {
-    "A":["Mexico","South Korea","Czech Republic","South Africa"],
-    "B":["Bosnia and Herzegovina","Canada","Qatar","Switzerland"],
-    "C":["Brazil","Haiti","Morocco","Scotland"],
-    "D":["Australia","Paraguay","Turkey","United States"],
-    "E":["Curacao","Ecuador","Germany","Cote dIvoire"],
-    "F":["Japan","Netherlands","Sweden","Tunisia"],
-    "G":["Belgium","Egypt","Iran","New Zealand"],
-    "H":["Cape Verde","Saudi Arabia","Spain","Uruguay"],
-    "I":["France","Iraq","Norway","Senegal"],
-    "J":["Algeria","Argentina","Austria","Jordan"],
-    "K":["Colombia","DR Congo","Portugal","Uzbekistan"],
-    "L":["Croatia","England","Ghana","Panama"],
+    'A':['Mexico','South Korea','Czech Republic','South Africa'],
+    'B':['Bosnia and Herzegovina','Canada','Qatar','Switzerland'],
+    'C':['Brazil','Haiti','Morocco','Scotland'],
+    'D':['Australia','Paraguay','Turkey','United States'],
+    'E':['Curacao','Ecuador','Germany','Cote dIvoire'],
+    'F':['Japan','Netherlands','Sweden','Tunisia'],
+    'G':['Belgium','Egypt','Iran','New Zealand'],
+    'H':['Cape Verde','Saudi Arabia','Spain','Uruguay'],
+    'I':['France','Iraq','Norway','Senegal'],
+    'J':['Algeria','Argentina','Austria','Jordan'],
+    'K':['Colombia','DR Congo','Portugal','Uzbekistan'],
+    'L':['Croatia','England','Ghana','Panama'],
 }
 
 @st.cache_resource
