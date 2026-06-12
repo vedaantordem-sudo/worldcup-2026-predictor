@@ -19,18 +19,18 @@ team_feat = pd.read_csv(f'{DATA_DIR}/team_features.csv')
 feat_idx  = team_feat.set_index('team')
 
 GROUPS = {
-    'A':['Mexico','South Africa','South Korea','Czech Republic'],
-    'B':['Canada','Bosnia and Herzegovina','Qatar','Switzerland'],
-    'C':['Brazil','Morocco','Haiti','Scotland'],
-    'D':['United States','Paraguay','Australia','Turkey'],
-    'E':['Germany','Cote dIvoire','Thailand','Chile'],
-    'F':['Spain','Egypt','Tunisia','Costa Rica'],
-    'G':['England','Croatia','Ghana','Panama'],
-    'H':['France','Senegal','Iraq','Norway'],
-    'I':['Argentina','Algeria','Austria','Jordan'],
-    'J':['Portugal','DR Congo','Uzbekistan','Colombia'],
-    'K':['Netherlands','Iran','New Zealand','Japan'],
-    'L':['Belgium','Uruguay','Sweden','Saudi Arabia'],
+    "A":["Mexico","South Korea","Czech Republic","South Africa"],
+    "B":["Bosnia and Herzegovina","Canada","Qatar","Switzerland"],
+    "C":["Brazil","Haiti","Morocco","Scotland"],
+    "D":["Australia","Paraguay","Turkey","United States"],
+    "E":["Curacao","Ecuador","Germany","Cote dIvoire"],
+    "F":["Japan","Netherlands","Sweden","Tunisia"],
+    "G":["Belgium","Egypt","Iran","New Zealand"],
+    "H":["Cape Verde","Saudi Arabia","Spain","Uruguay"],
+    "I":["France","Iraq","Norway","Senegal"],
+    "J":["Algeria","Argentina","Austria","Jordan"],
+    "K":["Colombia","DR Congo","Portugal","Uzbekistan"],
+    "L":["Croatia","England","Ghana","Panama"],
 }
 ALL_TEAMS = [t for g in GROUPS.values() for t in g]
 avg_gf = team_feat['avg_gf'].mean()
