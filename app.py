@@ -56,7 +56,25 @@ def load_data():
     gb = pd.read_csv("data/golden_boot.csv")
     dh = pd.read_csv("data/dark_horse_scores.csv")
     br = pd.read_csv("data/bracket_predictions.csv")
-    model = joblib.load("data/model.joblib")
+    import xgboost as xgb
+    from sklearn.linear_model import PoissonRegressor
+    import json, pickle
+
+    # Load XGBoost from version-independent JSON
+    xgb_clf = xgb.XGBClassifier()
+    xgb_clf.load_model("data/xgb_model.json")
+
+    # Load Poisson models from separate pickle (no XGBoost dependency)
+    with open("data/poisson_models.pkl","rb") as f:
+        poisson_data = pickle.load(f)
+
+    model = {
+        "classifier": xgb_clf,
+        "poisson_home": poisson_data["poisson_home"],
+        "poisson_away": poisson_data["poisson_away"],
+        "test_accuracy": poisson_data.get("test_accuracy", 0.516),
+        "mae": poisson_data.get("mae", 0.95),
+    }
     return tf, sr, gb, dh, br, model
 
 @st.cache_data(ttl=3600)
