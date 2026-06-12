@@ -6,4 +6,3 @@ xgboost>=2.0
 scipy>=1.11
 plotly>=5.15
 requests>=2.31
-pickle5>=0.0.11
