@@ -57,23 +57,36 @@ def load_data():
     dh = pd.read_csv("data/dark_horse_scores.csv")
     br = pd.read_csv("data/bracket_predictions.csv")
     import xgboost as xgb
-    from sklearn.linear_model import PoissonRegressor
-    import json, pickle
+    import json
+    import numpy as np
 
     # Load XGBoost from version-independent JSON
     xgb_clf = xgb.XGBClassifier()
     xgb_clf.load_model("data/xgb_model.json")
 
-    # Load Poisson models from separate pickle (no XGBoost dependency)
-    with open("data/poisson_models.pkl","rb") as f:
-        poisson_data = pickle.load(f)
+    # Load Poisson params from pure JSON - no sklearn version dependency
+    with open("data/model_params.json","r") as f:
+        params = json.load(f)
+
+    # Rebuild Poisson predictors as simple lambda functions using saved coefficients
+    home_coef = np.array(params["poisson_home"]["coef"])
+    home_int  = params["poisson_home"]["intercept"]
+    away_coef = np.array(params["poisson_away"]["coef"])
+    away_int  = params["poisson_away"]["intercept"]
+
+    class SimplePoisson:
+        def __init__(self, coef, intercept):
+            self.coef_ = coef
+            self.intercept_ = intercept
+        def predict(self, X):
+            return np.exp(np.dot(np.array(X), self.coef_) + self.intercept_)
 
     model = {
         "classifier": xgb_clf,
-        "poisson_home": poisson_data["poisson_home"],
-        "poisson_away": poisson_data["poisson_away"],
-        "test_accuracy": poisson_data.get("test_accuracy", 0.516),
-        "mae": poisson_data.get("mae", 0.95),
+        "poisson_home": SimplePoisson(home_coef, home_int),
+        "poisson_away": SimplePoisson(away_coef, away_int),
+        "test_accuracy": params.get("test_accuracy", 0.516),
+        "mae": params.get("mae", 0.95),
     }
     return tf, sr, gb, dh, br, model
 
