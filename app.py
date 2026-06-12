@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import joblib
 import plotly.graph_objects as go
 import requests
 from itertools import combinations
@@ -55,7 +56,7 @@ def load_data():
     gb = pd.read_csv("data/golden_boot.csv")
     dh = pd.read_csv("data/dark_horse_scores.csv")
     br = pd.read_csv("data/bracket_predictions.csv")
-    with open("data/model.pkl","rb") as f: model = pickle.load(f)
+    model = joblib.load("data/model.joblib")
     return tf, sr, gb, dh, br, model
 
 @st.cache_data(ttl=3600)
