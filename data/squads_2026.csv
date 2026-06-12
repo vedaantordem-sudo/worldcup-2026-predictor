@@ -1,0 +1,1250 @@
+team,team_id,player_name,position,dob,nationality
+Uruguay,758,Fernando Muslera,Goalkeeper,1986-06-16,Uruguay
+Uruguay,758,Santiago Mele,Goalkeeper,1997-09-06,Uruguay
+Uruguay,758,Sergio Rochet,Goalkeeper,1993-03-23,Uruguay
+Uruguay,758,Guillermo Varela,Defence,1993-03-24,Uruguay
+Uruguay,758,Ronald Araújo,Defence,1999-03-07,Uruguay
+Uruguay,758,Sebastían Cáceres,Defence,1999-08-18,Uruguay
+Uruguay,758,Matías Viña,Defence,1997-11-09,Uruguay
+Uruguay,758,Joaquín Piquerez,Defence,1998-08-24,Uruguay
+Uruguay,758,Maximiliano Araújo,Defence,2000-02-15,Uruguay
+Uruguay,758,Mathías Olivera,Defence,1997-10-31,Uruguay
+Uruguay,758,Santiago Bueno,Defence,1998-11-09,Uruguay
+Uruguay,758,José Giménez,Defence,1995-01-20,Uruguay
+Uruguay,758,Federico Valverde,Midfield,1998-07-22,Uruguay
+Uruguay,758,Giorgian De Arrascaeta,Midfield,1994-06-01,Uruguay
+Uruguay,758,Rodrigo Bentancur,Midfield,1997-06-25,Uruguay
+Uruguay,758,Manuel Ugarte,Midfield,2001-04-11,Uruguay
+Uruguay,758,Brian Rodríguez,Midfield,2000-05-20,Uruguay
+Uruguay,758,Rodrigo Zalazar,Midfield,1999-08-12,Uruguay
+Uruguay,758,Facundo Pellistri,Midfield,2001-12-20,Uruguay
+Uruguay,758,Emiliano Martínez,Midfield,1999-08-17,Uruguay
+Uruguay,758,Juan Sanabria,Midfield,2000-03-29,Uruguay
+Uruguay,758,Nicolas de la Cruz,Midfield,1997-06-01,Uruguay
+Uruguay,758,Rodrigo Aguirre,Offence,1994-10-01,Uruguay
+Uruguay,758,Darwin Núñez,Offence,1999-06-24,Uruguay
+Uruguay,758,Agustín Canobbio,Offence,1998-10-01,Uruguay
+Uruguay,758,Federico Viñas,Offence,1998-06-30,Uruguay
+Germany,759,Oliver Baumann,Goalkeeper,1990-06-02,Germany
+Germany,759,Manuel Neuer,Goalkeeper,1986-03-27,Germany
+Germany,759,Alexander Nübel,Goalkeeper,1996-09-30,Germany
+Germany,759,Jonathan Tah,Defence,1996-02-11,Germany
+Germany,759,Waldemar Anton,Defence,1996-07-20,Germany
+Germany,759,Antonio Rüdiger,Defence,1993-03-03,Germany
+Germany,759,David Raum,Defence,1998-04-22,Germany
+Germany,759,Nico Schlotterbeck,Defence,1999-12-01,Germany
+Germany,759,Malick Thiaw,Defence,2001-08-08,Germany
+Germany,759,Nathaniel Brown,Defence,2003-06-16,Germany
+Germany,759,Nadiem Amiri,Midfield,1996-10-27,Germany
+Germany,759,Joshua Kimmich,Midfield,1995-02-08,Germany
+Germany,759,Leon Goretzka,Midfield,1995-02-06,Germany
+Germany,759,Pascal Groß,Midfield,1991-06-15,Germany
+Germany,759,Florian Wirtz,Midfield,2003-05-03,Germany
+Germany,759,Felix Kalu Nmecha,Midfield,2000-10-10,Germany
+Germany,759,Angelo Stiller,Midfield,2001-04-04,Germany
+Germany,759,Jamal Musiala,Midfield,2003-02-26,Germany
+Germany,759,Aleksandar Pavlović,Midfield,2004-05-03,Germany
+Germany,759,Assan Ouédraogo,Midfield,2006-05-09,Germany
+Germany,759,Kai Havertz,Offence,1999-06-11,Germany
+Germany,759,Leroy Sané,Offence,1996-01-11,Germany
+Germany,759,Deniz Undav,Offence,1996-07-19,Germany
+Germany,759,Jamie Leweling,Offence,2001-02-26,Germany
+Germany,759,Nick Woltemade,Offence,2002-02-14,Germany
+Germany,759,Maximilian Beier,Offence,2002-10-17,Germany
+Spain,760,David Raya,Goalkeeper,1995-09-15,Spain
+Spain,760,Unai Simón,Goalkeeper,1997-06-11,Spain
+Spain,760,Joan García,Goalkeeper,2001-05-04,Spain
+Spain,760,Aymeric Laporte,Defence,1994-05-27,Spain
+Spain,760,Cucurella,Defence,1998-07-22,Spain
+Spain,760,Alejandro Grimaldo,Defence,1995-09-20,Spain
+Spain,760,Pedro Porro,Defence,1999-09-13,Spain
+Spain,760,Eric García,Defence,2001-01-09,Spain
+Spain,760,Marc Pubill,Defence,2003-06-20,Spain
+Spain,760,Pau Cubarsí,Defence,2007-01-22,Spain
+Spain,760,Fabián Ruiz,Midfield,1996-04-03,Spain
+Spain,760,Marcos Llorente,Midfield,1995-01-30,Spain
+Spain,760,Rodri,Midfield,1996-06-22,Spain
+Spain,760,Mikel Merino,Midfield,1996-06-22,Spain
+Spain,760,Dani Olmo,Midfield,1998-05-07,Spain
+Spain,760,Ferrán Torres,Midfield,2000-02-29,Spain
+Spain,760,Martín Zubimendi,Midfield,1999-02-02,Spain
+Spain,760,Pedri,Midfield,2002-11-25,Spain
+Spain,760,Pablo Gavira,Midfield,2004-08-05,Spain
+Spain,760,Mikel Oyarzabal,Midfield,1997-04-21,Spain
+Spain,760,Álex Baena,Midfield,2001-07-20,Spain
+Spain,760,Borja Iglesias,Offence,1993-01-17,Spain
+Spain,760,Yeremi Pino,Offence,2002-10-20,Spain
+Spain,760,Nico Williams,Offence,2002-07-12,Spain
+Spain,760,Lamine Yamal,Offence,2007-07-13,Spain
+Spain,760,Víctor Muñoz,Offence,2003-07-13,Spain
+Paraguay,761,Gastón Olveira,Goalkeeper,1993-04-21,Paraguay
+Paraguay,761,Roberto Fernández,Goalkeeper,1988-03-29,Paraguay
+Paraguay,761,Orlando Gill,Goalkeeper,2000-06-11,Paraguay
+Paraguay,761,Fabián Balbuena,Defence,1991-08-23,Paraguay
+Paraguay,761,Gustavo Gómez,Defence,1993-05-06,Paraguay
+Paraguay,761,Júnior Alonso,Defence,1993-02-09,Paraguay
+Paraguay,761,Omar Alderete,Defence,1996-12-26,Paraguay
+Paraguay,761,Juan Cáceres,Defence,2000-06-01,Paraguay
+Paraguay,761,Gustavo Velázquez,Defence,1991-04-17,Paraguay
+Paraguay,761,José Canale,Defence,1996-07-20,Paraguay
+Paraguay,761,Alexandro Maidana,Defence,2005-07-26,Paraguay
+Paraguay,761,Andrés Cubas,Midfield,1996-05-11,Paraguay
+Paraguay,761,Kaku,Midfield,1995-01-11,Paraguay
+Paraguay,761,Miguel Almirón,Midfield,1994-02-10,Paraguay
+Paraguay,761,Mauricio,Midfield,2001-06-22,Paraguay
+Paraguay,761,Braian Ojeda,Midfield,2000-06-27,Paraguay
+Paraguay,761,Matías Galarza,Midfield,2002-02-11,Paraguay
+Paraguay,761,Damian Bobadilla,Midfield,2001-07-11,Paraguay
+Paraguay,761,Diego Gómez,Midfield,2003-03-27,Paraguay
+Paraguay,761,Antonio Sanabria,Offence,1996-03-04,Paraguay
+Paraguay,761,Gabriel Ávalos,Offence,1990-10-12,Paraguay
+Paraguay,761,Isidro Pitta,Offence,1999-08-14,Paraguay
+Paraguay,761,Ramón Sosa,Offence,1999-08-31,Paraguay
+Paraguay,761,Julio Enciso,Offence,2004-01-23,Paraguay
+Paraguay,761,Gustavo Caballero,Offence,2001-09-21,Paraguay
+Paraguay,761,Alex Arce,Offence,1995-06-16,Paraguay
+Argentina,762,Géronimo Rulli,Goalkeeper,1992-05-20,Argentina
+Argentina,762,Emiliano Martínez,Goalkeeper,1992-09-02,Argentina
+Argentina,762,Juan Musso,Goalkeeper,1994-05-06,Argentina
+Argentina,762,Nicolás Otamendi,Defence,1988-02-12,Argentina
+Argentina,762,Nicolás Tagliafico,Defence,1992-08-31,Argentina
+Argentina,762,Gonzalo Montiel,Defence,1997-01-01,Argentina
+Argentina,762,Christian Romero,Defence,1998-04-27,Argentina
+Argentina,762,Facundo Medina,Defence,1999-05-28,Argentina
+Argentina,762,Lisandro Martínez,Defence,1998-01-18,Argentina
+Argentina,762,Nahuel Molina,Defence,1998-04-06,Argentina
+Argentina,762,Leonardo Balerdi,Defence,1999-01-26,Argentina
+Argentina,762,Valentin Barco,Defence,2004-07-23,Argentina
+Argentina,762,Rodrigo de Paul,Midfield,1994-05-24,Argentina
+Argentina,762,Leandro Paredes,Midfield,1994-06-29,Argentina
+Argentina,762,Giovani Lo Celso,Midfield,1996-04-09,Argentina
+Argentina,762,Exequiel Palacios,Midfield,1998-10-05,Argentina
+Argentina,762,Alexis Mac Allister,Midfield,1998-12-24,Argentina
+Argentina,762,Thiago Almada,Midfield,2001-04-26,Argentina
+Argentina,762,Enzo Fernández,Midfield,2001-01-17,Argentina
+Argentina,762,Nico Paz,Midfield,2004-09-08,Argentina
+Argentina,762,Lionel Messi,Offence,1987-06-24,Argentina
+Argentina,762,Lautaro Martínez,Offence,1997-08-22,Argentina
+Argentina,762,Nicolás González,Offence,1998-04-06,Argentina
+Argentina,762,Julián Álvarez,Offence,2000-01-31,Argentina
+Argentina,762,José Manuel López,Offence,2000-12-06,Argentina
+Argentina,762,Giuliano Simeone,Offence,2002-12-18,Argentina
+Ghana,763,Lawrence Ati-Zigi,Goalkeeper,1996-11-29,Ghana
+Ghana,763,Joseph Anang,Goalkeeper,2000-06-08,Ghana
+Ghana,763,Benjamin Asare,Goalkeeper,1992-07-13,Ghana
+Ghana,763,Abdul Rahman Baba,Defence,1994-07-02,Ghana
+Ghana,763,Derrick Luckassen,Defence,1995-07-03,Ghana
+Ghana,763,Gideon Mensah,Defence,1998-07-18,Ghana
+Ghana,763,Abdul Mumin,Defence,1998-06-06,Ghana
+Ghana,763,Jerome Opoku,Defence,1998-10-14,Ghana
+Ghana,763,Alidu Seidu,Defence,2000-06-04,Ghana
+Ghana,763,Marvin Senaya,Defence,2001-01-28,Ghana
+Ghana,763,Jonas Adjei Adjetey,Defence,2003-12-13,Ghana
+Ghana,763,Kojo Peprah Oppong,Defence,2004-06-04,Ghana
+Ghana,763,Thomas Partey,Midfield,1993-06-13,Ghana
+Ghana,763,Elisha Owusu,Midfield,1997-11-07,Ghana
+Ghana,763,Kwasi Sibo,Midfield,1998-06-24,Ghana
+Ghana,763,Augustine Boakye,Midfield,2000-11-03,Ghana
+Ghana,763,Caleb Yirenkyi,Midfield,2006-01-15,Ghana
+Ghana,763,Antoine Semenyo,Offence,2000-01-07,Ghana
+Ghana,763,Brandon Thomas-Asante,Offence,1998-12-29,Ghana
+Ghana,763,Jordan Ayew,Offence,1991-09-11,Ghana
+Ghana,763,Iñaki Williams,Offence,1994-06-15,Ghana
+Ghana,763,Kamal Deen Sulemana,Offence,2002-02-15,Ghana
+Ghana,763,Ernest Nuamah,Offence,2003-11-01,Ghana
+Ghana,763,Abdul Issahaku,Offence,2004-03-08,Ghana
+Ghana,763,Christopher Bonsu Baah,Offence,2004-12-14,Ghana
+Ghana,763,Prince Adu,Offence,2003-09-23,Ghana
+Brazil,764,Weverton,Goalkeeper,1987-12-13,Brazil
+Brazil,764,Alisson Becker,Goalkeeper,1992-10-02,Brazil
+Brazil,764,Ederson,Goalkeeper,1993-08-17,Brazil
+Brazil,764,Roger Ibañez,Defence,1998-11-23,Brazil
+Brazil,764,Bremer,Defence,1997-03-18,Brazil
+Brazil,764,Alex Sandro,Defence,1991-01-26,Brazil
+Brazil,764,Marquinhos,Defence,1994-05-14,Brazil
+Brazil,764,Douglas Santos,Defence,1994-03-22,Brazil
+Brazil,764,Danilo Luiz da Silva,Defence,1991-07-15,Brazil
+Brazil,764,Léo Pereira,Defence,1996-01-31,Brazil
+Brazil,764,Gabriel Magalhães,Defence,1997-12-19,Brazil
+Brazil,764,Wesley,Defence,2003-09-06,Brazil
+Brazil,764,Lucas Paquetá,Midfield,1997-08-27,Brazil
+Brazil,764,Bruno Guimarães,Midfield,1997-11-16,Brazil
+Brazil,764,Casemiro,Midfield,1992-02-23,Brazil
+Brazil,764,Fabinho,Midfield,1993-10-23,Brazil
+Brazil,764,Danilo dos Santos de Oliveira,Midfield,2001-04-29,Brazil
+Brazil,764,Vinicius Junior,Offence,2000-07-12,Brazil
+Brazil,764,Neymar,Offence,1992-02-05,Brazil
+Brazil,764,Matheus Cunha,Offence,1999-05-27,Brazil
+Brazil,764,Raphinha,Offence,1996-12-14,Brazil
+Brazil,764,Martinelli,Offence,2001-06-18,Brazil
+Brazil,764,Thiago,Offence,2001-06-26,Brazil
+Brazil,764,Luiz Henrique,Offence,2001-01-02,Brazil
+Brazil,764,Endrick,Offence,2006-07-21,Brazil
+Brazil,764,Rayan,Offence,2006-08-03,Brazil
+Portugal,765,José Sá,Goalkeeper,1993-01-17,Portugal
+Portugal,765,Rui Silva,Goalkeeper,1994-02-07,Portugal
+Portugal,765,Diogo Costa,Goalkeeper,1999-09-19,Portugal
+Portugal,765,João Cancelo,Defence,1994-05-27,Portugal
+Portugal,765,Rúben Dias,Defence,1997-05-14,Portugal
+Portugal,765,Nélson Semedo,Defence,1993-11-16,Portugal
+Portugal,765,Diogo Dalot,Defence,1999-03-18,Portugal
+Portugal,765,Matheus Nunes,Defence,1998-08-27,Portugal
+Portugal,765,Nuno Mendes,Defence,2002-06-19,Portugal
+Portugal,765,Gonçalo Inácio,Defence,2001-08-25,Portugal
+Portugal,765,Tomas Araujo,Defence,2002-05-16,Portugal
+Portugal,765,Renato Veiga,Defence,2003-07-29,Portugal
+Portugal,765,Bernardo Silva,Midfield,1994-08-10,Portugal
+Portugal,765,Rúben Neves,Midfield,1997-03-13,Portugal
+Portugal,765,Bruno Fernandes,Midfield,1994-09-08,Portugal
+Portugal,765,Gonçalo Guedes,Midfield,1996-11-29,Portugal
+Portugal,765,Samuel Almeida Costa,Midfield,2000-11-27,Portugal
+Portugal,765,Vitinha,Midfield,2000-02-13,Portugal
+Portugal,765,Joao Neves,Midfield,2004-09-27,Portugal
+Portugal,765,Cristiano Ronaldo,Offence,1985-02-05,Portugal
+Portugal,765,Pedro Neto,Offence,2000-03-09,Portugal
+Portugal,765,Rafael Leão,Offence,1999-06-10,Portugal
+Portugal,765,Trincão,Offence,1999-12-29,Portugal
+Portugal,765,João Félix,Offence,1999-11-10,Portugal
+Portugal,765,Gonçalo Ramos,Offence,2001-06-20,Portugal
+Portugal,765,Francisco Conceição,Offence,2002-12-14,Portugal
+Japan,766,Keisuke Ōsako,Goalkeeper,1999-07-28,Japan
+Japan,766,Zion Suzuki,Goalkeeper,2002-08-21,Japan
+Japan,766,Tomoki Hayakawa,Goalkeeper,1999-03-03,Japan
+Japan,766,Yūto Nagatomo,Defence,1986-09-12,Japan
+Japan,766,Takehiro Tomiyasu,Defence,1998-11-05,Japan
+Japan,766,Hiroki Ito,Defence,1999-05-12,Japan
+Japan,766,Yukinari Sugawara,Defence,2000-06-28,Japan
+Japan,766,Ko Itakura,Defence,1997-01-27,Japan
+Japan,766,Shogo Taniguchi,Defence,1991-07-15,Japan
+Japan,766,Ayumu Seko,Defence,2000-06-07,Japan
+Japan,766,Tsuyoshi Watanabe,Defence,1997-02-05,Japan
+Japan,766,Junnosuke Suzuki,Defence,2003-07-12,Japan
+Japan,766,Wataru Endō,Midfield,1993-02-09,Japan
+Japan,766,Daichi Kamada,Midfield,1996-08-05,Japan
+Japan,766,Takefusa Kubo,Midfield,2001-06-04,Japan
+Japan,766,Keito Nakamura,Midfield,2000-07-28,Japan
+Japan,766,Ao Tanaka,Midfield,1998-09-10,Japan
+Japan,766,Kaishu Sano,Midfield,2000-12-30,Japan
+Japan,766,Yuito Suzuki,Midfield,2001-10-25,Japan
+Japan,766,Ritsu Doan,Offence,1998-06-16,Japan
+Japan,766,Daizen Maeda,Offence,1997-10-20,Japan
+Japan,766,Koki Ogawa,Offence,1997-08-08,Japan
+Japan,766,Junya Ito,Offence,1993-03-09,Japan
+Japan,766,Ayase Ueda,Offence,1998-08-28,Japan
+Japan,766,Kento Shiogai,Offence,2005-03-26,Japan
+Japan,766,Keisuke Goto,Offence,2005-06-03,Japan
+Mexico,769,Guillermo Ochoa,Goalkeeper,1985-07-13,Mexico
+Mexico,769,Carlos Acevedo,Goalkeeper,1996-04-19,Mexico
+Mexico,769,José Rangel,Goalkeeper,2000-02-25,Mexico
+Mexico,769,Jesús Gallardo,Defence,1994-08-15,Mexico
+Mexico,769,César Montes,Defence,1997-02-24,Mexico
+Mexico,769,Johan Vásquez,Defence,1998-10-22,Mexico
+Mexico,769,Jorge Sánchez,Defence,1997-12-10,Mexico
+Mexico,769,Israel Reyes,Defence,2000-05-23,Mexico
+Mexico,769,Mateo Chávez,Defence,2004-05-12,Mexico
+Mexico,769,Edson Álvarez,Midfield,1997-10-24,Mexico
+Mexico,769,Orbelín Pineda,Midfield,1996-03-24,Mexico
+Mexico,769,Luis Chávez,Midfield,1996-01-15,Mexico
+Mexico,769,Luis Romo,Midfield,1995-06-05,Mexico
+Mexico,769,Erik Lira,Midfield,2000-05-08,Mexico
+Mexico,769,Álvaro Fidalgo,Midfield,1997-04-09,Spain
+Mexico,769,Brian Gutiérrez,Midfield,2003-06-17,Mexico
+Mexico,769,Obed Vargas,Midfield,2005-08-05,Mexico
+Mexico,769,Gilberto Mora,Midfield,2008-10-14,Mexico
+Mexico,769,Raúl Jiménez,Offence,1991-05-05,Mexico
+Mexico,769,Julián Quiñones,Offence,1997-03-24,Colombia
+Mexico,769,Roberto Alvarado,Offence,1998-09-07,Mexico
+Mexico,769,Santiago Giménez,Offence,2001-04-18,Mexico
+Mexico,769,Alexis Vega,Offence,1997-11-25,Mexico
+Mexico,769,Guillermo Martínez,Offence,1995-03-15,Mexico
+Mexico,769,César Huerta,Offence,2000-12-03,Mexico
+Mexico,769,Armando González,Offence,2003-04-20,Mexico
+England,770,Jordan Pickford,Goalkeeper,1994-03-07,England
+England,770,Dean Henderson,Goalkeeper,1997-03-12,England
+England,770,James Trafford,Goalkeeper,2002-10-10,England
+England,770,John Stones,Defence,1994-05-28,England
+England,770,Dan Burn,Defence,1992-05-09,England
+England,770,Ezri Konsa,Defence,1997-10-23,England
+England,770,Reece James,Defence,1999-12-08,England
+England,770,Djed Spence,Defence,2000-08-09,England
+England,770,Marc Guéhi,Defence,2000-07-13,England
+England,770,Valentino Livramento,Defence,2002-11-12,England
+England,770,Jarell Quansah,Defence,2003-01-29,England
+England,770,Nico O'Reilly,Defence,2005-03-21,England
+England,770,Jordan Henderson,Midfield,1990-06-17,England
+England,770,Eberechi Eze,Midfield,1998-06-29,England
+England,770,Anthony Gordon,Midfield,2001-02-24,England
+England,770,Declan Rice,Midfield,1999-01-14,England
+England,770,Morgan Rogers,Midfield,2002-07-26,England
+England,770,Elliot Anderson,Midfield,2002-11-06,England
+England,770,Jude Bellingham,Midfield,2003-06-29,England
+England,770,Kobbie Mainoo,Midfield,2005-04-19,England
+England,770,Marcus Rashford,Offence,1997-10-31,England
+England,770,Ollie Watkins,Offence,1995-12-30,England
+England,770,Ivan Toney,Offence,1996-03-16,England
+England,770,Harry Kane,Offence,1993-07-28,England
+England,770,Bukayo Saka,Offence,2001-09-05,England
+England,770,Noni Madueke,Offence,2002-03-10,England
+United States,771,Matt Turner,Goalkeeper,1994-06-24,USA
+United States,771,Matt Freese,Goalkeeper,1998-09-02,USA
+United States,771,Chris Brady,Goalkeeper,2004-03-03,USA
+United States,771,Antonee Robinson,Defence,1997-08-08,USA
+United States,771,Tim Ream,Defence,1987-10-05,USA
+United States,771,Miles Robinson,Defence,1997-03-14,USA
+United States,771,Auston Trusty,Defence,1998-08-12,USA
+United States,771,Mark McKenzie,Defence,1999-02-25,USA
+United States,771,Joseph Scally,Defence,2002-12-31,USA
+United States,771,Sergiño Dest,Defence,2000-11-03,USA
+United States,771,Chris Richards,Defence,2000-03-28,USA
+United States,771,Alex Freeman,Defence,2004-08-09,USA
+United States,771,Weston McKennie,Midfield,1998-08-28,USA
+United States,771,Alejandro Zendejas,Midfield,1998-02-07,USA
+United States,771,Cristian Roldan,Midfield,1995-06-03,USA
+United States,771,Tyler Adams,Midfield,1999-02-14,USA
+United States,771,Brenden Aaronson,Midfield,2000-10-22,USA
+United States,771,Gio Reyna,Midfield,2002-11-13,USA
+United States,771,Sebastian Berhalter,Midfield,2001-05-17,USA
+United States,771,Malik Tillman,Midfield,2002-05-28,USA
+United States,771,Christian Pulisic,Offence,1998-09-18,USA
+United States,771,Tim Weah,Offence,2000-02-22,USA
+United States,771,Haji Wright,Offence,1998-03-27,USA
+United States,771,Ricardo Pepi,Offence,2003-01-09,USA
+United States,771,Folarin Balogun,Offence,2001-07-03,USA
+United States,771,Max Arfsten,Offence,2001-04-19,USA
+South Korea,772,Seung-Gyu Kim,Goalkeeper,1990-09-30,South Korea
+South Korea,772,Bum-keun Song,Goalkeeper,1997-10-15,South Korea
+South Korea,772,Hyeon-woo Jo,Goalkeeper,1991-09-25,South Korea
+South Korea,772,Min-Jae Kim,Defence,1996-11-15,South Korea
+South Korea,772,Moon-hwan Kim,Defence,1995-08-01,South Korea
+South Korea,772,Han-bum Lee,Defence,2002-06-17,South Korea
+South Korea,772,Young-woo Seol,Defence,1998-12-05,South Korea
+South Korea,772,Jin-seob Park,Defence,1995-10-23,South Korea
+South Korea,772,Tae-hyeon Kim,Defence,2000-09-17,South Korea
+South Korea,772,Gi-hyuk Lee,Defence,2000-07-07,South Korea
+South Korea,772,Tae-seok Lee,Defence,2002-07-28,South Korea
+South Korea,772,Cho Wi-Je,Defence,2001-08-25,South Korea
+South Korea,772,Jens Castrop,Midfield,2003-07-29,South Korea
+South Korea,772,In-beom Hwang,Midfield,1996-09-20,South Korea
+South Korea,772,Dong-gyeong Lee,Midfield,1997-09-20,South Korea
+South Korea,772,Jae-sung Lee,Midfield,1992-08-10,South Korea
+South Korea,772,Jin-Gyu Kim,Midfield,1997-02-24,South Korea
+South Korea,772,Seung-Ho Paik,Midfield,1997-03-17,South Korea
+South Korea,772,Kang-in Lee,Midfield,2001-02-19,South Korea
+South Korea,772,Joon-ho Bae,Midfield,2003-08-21,South Korea
+South Korea,772,Hwang Heechan,Offence,1996-01-26,South Korea
+South Korea,772,Heung-min Son,Offence,1992-07-08,South Korea
+South Korea,772,Hyun-jun Yang,Offence,2002-05-25,South Korea
+South Korea,772,Gue-Sung Cho,Offence,1998-01-25,South Korea
+South Korea,772,Hyun-Gyu Oh,Offence,2001-04-12,South Korea
+South Korea,772,Ji-sung Eom,Offence,2002-05-09,South Korea
+France,773,Brice Samba,Goalkeeper,1994-04-25,France
+France,773,Mike Maignan,Goalkeeper,1995-07-03,France
+France,773,Robin Risser,Goalkeeper,2004-12-02,France
+France,773,Theo Hernández,Defence,1997-10-06,France
+France,773,Lucas Digne,Defence,1993-07-20,France
+France,773,Lucas Hernández,Defence,1996-02-14,France
+France,773,Jules Koundé,Defence,1998-11-12,France
+France,773,Dayot Upamecano,Defence,1998-10-27,France
+France,773,Ibrahima Konaté,Defence,1999-05-25,France
+France,773,William Saliba,Defence,2001-03-24,France
+France,773,Maxence Lacroix,Defence,2000-04-06,France
+France,773,Malo Gusto,Defence,2003-05-19,France
+France,773,N'Golo Kanté,Midfield,1991-03-29,France
+France,773,Adrien Rabiot,Midfield,1995-04-03,France
+France,773,Aurélien Tchouameni,Midfield,2000-01-27,France
+France,773,Manu Koné,Midfield,2001-05-17,France
+France,773,Rayan Cherki,Midfield,2003-08-17,France
+France,773,Maghnes Akliouche,Midfield,2002-02-25,France
+France,773,Desire Doue,Midfield,2005-06-03,France
+France,773,Warren Zaïre-Emery,Midfield,2006-03-08,France
+France,773,Jean-Philippe Mateta,Offence,1997-06-28,France
+France,773,Ousmane Dembélé,Offence,1997-05-15,France
+France,773,Kylian Mbappé,Offence,1998-12-20,France
+France,773,Marcus Thuram-Ulien,Offence,1997-08-06,France
+France,773,Michael Olise,Offence,2001-12-12,France
+France,773,Bradley Barcola,Offence,2002-09-02,France
+South Africa,774,Ronwen Williams,Goalkeeper,1992-01-21,South Africa
+South Africa,774,Sipho Chaine,Goalkeeper,1996-12-14,South Africa
+South Africa,774,Ricardo Goss,Goalkeeper,1994-04-02,South Africa
+South Africa,774,Aubrey Modiba,Defence,1995-07-22,South Africa
+South Africa,774,Nkosinathi Sibisi,Defence,1995-09-22,South Africa
+South Africa,774,Khuliso Mudau,Defence,1995-04-26,South Africa
+South Africa,774,Olwethu Makhanya,Defence,2004-04-30,South Africa
+South Africa,774,Bradley Cross,Defence,2001-01-30,South Africa
+South Africa,774,Samukelo Kabini,Defence,2004-03-15,South Africa
+South Africa,774,Ime Okon,Defence,2004-02-20,South Africa
+South Africa,774,Mbekezeli Mbokazi,Defence,2005-09-19,South Africa
+South Africa,774,Khulumani Ndamane,Defence,2004-02-05,South Africa
+South Africa,774,Tholo Matuludi,Defence,1999-01-14,South Africa
+South Africa,774,Themba Zwane,Midfield,1989-08-03,South Africa
+South Africa,774,Teboho Mokoena,Midfield,1997-01-24,South Africa
+South Africa,774,Sphephelo Sithole,Midfield,1999-03-03,South Africa
+South Africa,774,Jayden Adams,Midfield,2001-05-05,South Africa
+South Africa,774,Thapelo Maseko,Midfield,2003-11-11,South Africa
+South Africa,774,Thalente Mbatha,Midfield,2000-03-06,South Africa
+South Africa,774,Kamogelo Sebelebele,Midfield,2002-07-21,South Africa
+South Africa,774,Lyle Foster,Offence,2000-09-04,South Africa
+South Africa,774,Oswin Appollis,Offence,2001-08-25,South Africa
+South Africa,774,Iqraam Rayners,Offence,1995-12-19,South Africa
+South Africa,774,Evidence Makgopa,Offence,2000-06-05,South Africa
+South Africa,774,Relebohile Mofokeng,Offence,2004-10-23,South Africa
+South Africa,774,Tshepang Moremi,Offence,2000-10-02,South Africa
+Algeria,778,Luca Zidane,Goalkeeper,1998-05-13,Algeria
+Algeria,778,Oussama Benbout,Goalkeeper,1994-10-11,Algeria
+Algeria,778,Melvin Mastil,Goalkeeper,2000-02-19,France
+Algeria,778,Aïssa Mandi,Defence,1991-10-22,Algeria
+Algeria,778,Rayan Aït Nouri,Defence,2001-06-06,Algeria
+Algeria,778,Ramy Bensebaini,Defence,1995-04-16,Algeria
+Algeria,778,Samir Chergui,Defence,1999-02-06,Algeria
+Algeria,778,Jaouen Hadjam,Defence,2003-03-26,Algeria
+Algeria,778,Rafik Belghali,Defence,2002-06-07,Algeria
+Algeria,778,Zinédine Belaïd,Defence,1999-03-20,Algeria
+Algeria,778,Amine Tougai,Defence,2000-01-22,Algeria
+Algeria,778,Achref Abada,Defence,1999-06-15,Algeria
+Algeria,778,Nabil Bentaleb,Midfield,1994-11-24,Algeria
+Algeria,778,Houssem Aouar,Midfield,1998-06-30,Algeria
+Algeria,778,Hicham Boudaoui,Midfield,1999-09-23,Algeria
+Algeria,778,Ramiz Zerrouki,Midfield,1998-05-26,Algeria
+Algeria,778,Fares Chaïbi,Midfield,2002-11-28,Algeria
+Algeria,778,Ibrahim Maza,Midfield,2005-11-24,Algeria
+Algeria,778,Yacine Titraoui,Midfield,2003-07-26,Algeria
+Algeria,778,Adil Boulbina,Midfield,2003-05-02,Algeria
+Algeria,778,Riyad Mahrez,Offence,1991-02-21,Algeria
+Algeria,778,Amine Gouiri,Offence,2000-02-16,Algeria
+Algeria,778,Mohammed Amoura,Offence,2000-05-09,Algeria
+Algeria,778,Nadhir Benbouali,Offence,2000-04-17,Algeria
+Algeria,778,Anis Moussa,Offence,2002-02-11,Algeria
+Algeria,778,Farés Ghedjemis,Offence,2002-09-06,Algeria
+Australia,779,Maty Ryan,Goalkeeper,1992-04-08,Australia
+Australia,779,Paul Izzo,Goalkeeper,1995-01-06,Australia
+Australia,779,Patrick Beach,Goalkeeper,2003-08-06,Australia
+Australia,779,Aziz Behich,Defence,1990-12-16,Australia
+Australia,779,Miloš Degenek,Defence,1994-04-28,Australia
+Australia,779,Kai Trewin,Defence,2001-05-18,Australia
+Australia,779,Jacob Italiano,Defence,2001-07-30,Australia
+Australia,779,Cameron Burgess,Defence,1995-10-21,Australia
+Australia,779,Harry Souttar,Defence,1998-10-22,Australia
+Australia,779,Jason Geria,Defence,1993-05-10,Australia
+Australia,779,Jordan Bos,Defence,2002-10-29,Australia
+Australia,779,Alessandro Circati,Defence,2003-10-10,Australia
+Australia,779,Lucas Herrington,Defence,2007-09-05,Australia
+Australia,779,Mathew Leckie,Midfield,1991-02-04,Australia
+Australia,779,Jackson Irvine,Midfield,1993-03-07,Australia
+Australia,779,Connor Metcalfe,Midfield,1999-11-05,Australia
+Australia,779,Ajdin Hrustic,Midfield,1996-07-05,Australia
+Australia,779,Aiden O'Neill,Midfield,1998-07-04,Australia
+Australia,779,Awer Mabil,Midfield,1995-09-15,Australia
+Australia,779,Cameron Devlin,Midfield,1998-06-07,Australia
+Australia,779,Paul Okon-Engstler,Midfield,2005-01-24,Australia
+Australia,779,Mohamed Toure,Offence,2004-03-26,Australia
+Australia,779,Nishan Velupillay,Offence,2001-05-07,Australia
+Australia,779,Cristian Volpato,Offence,2003-11-15,Italy
+Australia,779,Nestor Irankunda,Offence,2006-02-09,Australia
+Australia,779,Tete Yengi,Offence,2000-11-28,Australia
+New Zealand,783,Max Crocombe,Goalkeeper,1993-08-12,New Zealand
+New Zealand,783,Michael Woud,Goalkeeper,1999-01-16,New Zealand
+New Zealand,783,Alex Paulsen,Goalkeeper,2002-07-04,New Zealand
+New Zealand,783,Liberato Cacace,Defence,2000-09-27,New Zealand
+New Zealand,783,Tommy Smith,Defence,1990-03-31,New Zealand
+New Zealand,783,Michael Boxall,Defence,1988-08-18,New Zealand
+New Zealand,783,Francis De Vries,Defence,1994-11-28,New Zealand
+New Zealand,783,Callan Elliot,Defence,1999-07-07,New Zealand
+New Zealand,783,Tim Payne,Defence,1994-01-10,New Zealand
+New Zealand,783,Nando Pijnaker,Defence,1999-02-25,New Zealand
+New Zealand,783,Finn Surman,Defence,2003-09-23,New Zealand
+New Zealand,783,Tyler Bindon,Defence,2005-01-27,New Zealand
+New Zealand,783,Alex Rufer,Midfield,1996-06-12,New Zealand
+New Zealand,783,Sarpreet Singh,Midfield,1999-02-20,New Zealand
+New Zealand,783,Ryan Thomas,Midfield,1994-12-20,New Zealand
+New Zealand,783,Callum McCowatt,Midfield,1999-04-30,New Zealand
+New Zealand,783,Joe Bell,Midfield,1999-04-27,New Zealand
+New Zealand,783,Marko Stamenic,Midfield,2002-02-19,New Zealand
+New Zealand,783,Ben Old,Midfield,2002-08-13,New Zealand
+New Zealand,783,Kosta Barbarouses,Offence,1990-02-19,New Zealand
+New Zealand,783,Chris Wood,Offence,1991-12-07,New Zealand
+New Zealand,783,Ben Waine,Offence,2001-06-11,New Zealand
+New Zealand,783,Elijah Just,Offence,2000-05-01,New Zealand
+New Zealand,783,Matthew Garbett,Offence,2002-04-13,New Zealand
+New Zealand,783,Lachlan Bayliss,Offence,2002-07-24,New Zealand
+New Zealand,783,Jesse Randall,Offence,2002-08-19,New Zealand
+Switzerland,788,Gregor Kobel,Goalkeeper,1997-12-06,Switzerland
+Switzerland,788,Yvon Mvogo,Goalkeeper,1994-06-06,Switzerland
+Switzerland,788,Marvin Keller,Goalkeeper,2002-07-03,Switzerland
+Switzerland,788,Manuel Akanji,Defence,1995-07-19,Switzerland
+Switzerland,788,Ricardo Rodriguez,Defence,1992-08-25,Switzerland
+Switzerland,788,Silvan Widmer,Defence,1993-03-05,Switzerland
+Switzerland,788,Nico Elvedi,Defence,1996-09-30,Switzerland
+Switzerland,788,Eray Cömert,Defence,1998-02-04,Switzerland
+Switzerland,788,Miro Muheim,Defence,1998-03-24,Switzerland
+Switzerland,788,Aurele Amenda,Defence,2003-07-31,Switzerland
+Switzerland,788,Luca Jaquez,Defence,2003-06-02,Switzerland
+Switzerland,788,Remo Freuler,Midfield,1992-04-15,Switzerland
+Switzerland,788,Granit Xhaka,Midfield,1992-09-27,Switzerland
+Switzerland,788,Denis Zakaria,Midfield,1996-11-20,Switzerland
+Switzerland,788,Michel Aebischer,Midfield,1997-01-06,Switzerland
+Switzerland,788,Djibril Sow,Midfield,1997-02-06,Switzerland
+Switzerland,788,Christian Fassnacht,Midfield,1993-11-11,Switzerland
+Switzerland,788,Ruben Vargas,Midfield,1998-08-05,Switzerland
+Switzerland,788,Ardon Jasari,Midfield,2002-07-30,Switzerland
+Switzerland,788,Fabian Rieder,Midfield,2002-02-16,Switzerland
+Switzerland,788,Johan Manzambi,Midfield,2005-10-14,Switzerland
+Switzerland,788,Breel Embolo,Offence,1997-02-14,Switzerland
+Switzerland,788,Noah Okafor,Offence,2000-05-24,Switzerland
+Switzerland,788,Cédric Itten,Offence,1996-12-27,Switzerland
+Switzerland,788,Dan Ndoye,Offence,2000-10-25,Switzerland
+Switzerland,788,Zeki Amdouni,Offence,2000-12-04,Switzerland
+Ecuador,791,Hernán Galíndez,Goalkeeper,1987-03-30,Ecuador
+Ecuador,791,Gonzalo Valle,Goalkeeper,1996-02-28,Ecuador
+Ecuador,791,Moisés Ramírez,Goalkeeper,2000-09-09,Ecuador
+Ecuador,791,Ángelo Preciado,Defence,1998-02-18,Ecuador
+Ecuador,791,Félix Torres,Defence,1997-01-11,Ecuador
+Ecuador,791,Pervis Estupiñán,Defence,1998-01-21,Ecuador
+Ecuador,791,William Pacho,Defence,2001-10-16,Ecuador
+Ecuador,791,Jackson Porozo,Defence,2000-08-04,Ecuador
+Ecuador,791,Piero Hincapié,Defence,2002-01-09,Ecuador
+Ecuador,791,Joel Ordoñez,Defence,2004-04-21,Ecuador
+Ecuador,791,Yaimar Medina,Defence,2004-11-05,Ecuador
+Ecuador,791,Alan Franco,Midfield,1998-08-21,Ecuador
+Ecuador,791,Jordy Alcívar,Midfield,1999-08-05,Ecuador
+Ecuador,791,Gonzalo Plata,Midfield,2000-11-01,Ecuador
+Ecuador,791,Moisés Caicedo,Midfield,2001-11-02,Ecuador
+Ecuador,791,Pedro Vite,Midfield,2002-03-09,Ecuador
+Ecuador,791,Alan Minda,Midfield,2003-05-14,Ecuador
+Ecuador,791,Ray Paez,Midfield,2007-05-04,Ecuador
+Ecuador,791,Denil Castillo,Midfield,2004-03-24,Ecuador
+Ecuador,791,Jordy Caicedo,Offence,1997-11-18,Ecuador
+Ecuador,791,Enner Valencia,Offence,1989-11-04,Ecuador
+Ecuador,791,John Yeboah,Offence,2000-06-23,Ecuador
+Ecuador,791,Anthony Valencia,Offence,2003-07-21,Ecuador
+Ecuador,791,Nilson Angulo,Offence,2003-06-19,Ecuador
+Ecuador,791,Kevin Rodríguez,Offence,2000-03-04,Ecuador
+Ecuador,791,Jeremy,Offence,2005-03-19,Ecuador
+Sweden,792,Kristoffer Nordfeldt,Goalkeeper,1989-06-23,Sweden
+Sweden,792,Viktor Johansson,Goalkeeper,1998-09-14,Sweden
+Sweden,792,Jacob Widell Zetterström,Goalkeeper,1998-07-11,Sweden
+Sweden,792,Victor Nilsson-Lindelöf,Defence,1994-07-17,Sweden
+Sweden,792,Carl Starfelt,Defence,1995-06-01,Sweden
+Sweden,792,Gabriel Gudmundsson,Defence,1999-04-29,Sweden
+Sweden,792,Hjalmar Ekdal,Defence,1998-10-21,Sweden
+Sweden,792,Eric Smith,Defence,1997-01-08,Sweden
+Sweden,792,Daniel Svensson,Defence,2002-02-12,Sweden
+Sweden,792,Gustaf Lagerbielke,Defence,2000-04-10,Sweden
+Sweden,792,Isak Hien,Defence,1999-01-13,Sweden
+Sweden,792,Herman Johansson,Defence,1997-10-16,Sweden
+Sweden,792,Elliot Stroud,Defence,2002-06-22,Sweden
+Sweden,792,Ken Sema,Midfield,1993-09-30,Sweden
+Sweden,792,Mattias Svanberg,Midfield,1999-01-05,Sweden
+Sweden,792,Jesper Karlström,Midfield,1995-06-21,Sweden
+Sweden,792,Yasin Ayari,Midfield,2003-10-06,Sweden
+Sweden,792,Besfort Zeneli,Midfield,2002-11-21,Sweden
+Sweden,792,Taha Ali,Midfield,1998-07-01,Sweden
+Sweden,792,Lucas Bergvall,Midfield,2006-02-02,Sweden
+Sweden,792,Alexander Isak,Offence,1999-09-21,Sweden
+Sweden,792,Viktor Gyökeres,Offence,1998-06-04,Sweden
+Sweden,792,Gustaf Nilsson,Offence,1997-05-23,Sweden
+Sweden,792,Benjamin Nygren,Offence,2001-07-08,Sweden
+Sweden,792,Alexander Bernhardsson,Offence,1998-09-08,Sweden
+Sweden,792,Anthony Elanga,Offence,2002-04-27,Sweden
+Czech Republic,798,Jindřich Staněk,Goalkeeper,1996-04-27,Czech Republic
+Czech Republic,798,Matej Kovar,Goalkeeper,2000-05-17,Czech Republic
+Czech Republic,798,Lukáš Horníček,Goalkeeper,2002-07-13,Czech Republic
+Czech Republic,798,Ladislav Krejčí,Defence,1999-04-20,Czech Republic
+Czech Republic,798,Jaroslav Zelený,Defence,1992-08-20,Czech Republic
+Czech Republic,798,Vladimir Coufal,Defence,1992-08-22,Czech Republic
+Czech Republic,798,Tomáš Holeš,Defence,1993-03-31,Czech Republic
+Czech Republic,798,David Zima,Defence,2000-11-08,Czech Republic
+Czech Republic,798,David Jurásek,Defence,2000-08-07,Czech Republic
+Czech Republic,798,Robin Hranac,Defence,2000-01-29,Czech Republic
+Czech Republic,798,Štěpán Chaloupek,Defence,2003-03-08,Czech Republic
+Czech Republic,798,Vladimír Darida,Midfield,1990-08-08,Czech Republic
+Czech Republic,798,Tomáš Souček,Midfield,1995-02-27,Czech Republic
+Czech Republic,798,David Douděra,Midfield,1998-05-31,Czech Republic
+Czech Republic,798,Michal Sadílek,Midfield,1999-05-31,Czech Republic
+Czech Republic,798,Lukáš Provod,Midfield,1996-10-23,Czech Republic
+Czech Republic,798,Pavel Šulc,Midfield,2000-12-29,Czech Republic
+Czech Republic,798,Lukáš Červ,Midfield,2001-04-10,Czech Republic
+Czech Republic,798,Denis Višinský,Midfield,2003-03-21,Czech Republic
+Czech Republic,798,Alexandr Sojka,Midfield,2003-04-02,Czech Republic
+Czech Republic,798,Hugo Sochůrek,Midfield,2008-06-07,Czech Republic
+Czech Republic,798,Patrik Schick,Offence,1996-01-24,Czech Republic
+Czech Republic,798,Tomáš Chorý,Offence,1995-01-26,Czech Republic
+Czech Republic,798,Jan Kuchta,Offence,1997-01-08,Czech Republic
+Czech Republic,798,Adam Hložek,Offence,2002-07-25,Czech Republic
+Czech Republic,798,Mojmír Chytil,Offence,1999-04-29,Czech Republic
+Croatia,799,Dominik Livaković,Goalkeeper,1995-01-09,Croatia
+Croatia,799,Ivor Pandur,Goalkeeper,2000-03-25,Croatia
+Croatia,799,Dominik Kotarski,Goalkeeper,2000-02-10,Croatia
+Croatia,799,Duje Ćaleta-Car,Defence,1996-09-17,Croatia
+Croatia,799,Marin Pongračić,Defence,1997-09-11,Croatia
+Croatia,799,Martin Erlic,Defence,1998-01-24,Croatia
+Croatia,799,Josip Stanišić,Defence,2000-04-02,Croatia
+Croatia,799,Joško Gvardiol,Defence,2002-01-23,Croatia
+Croatia,799,Josip Šutalo,Defence,2000-02-28,Croatia
+Croatia,799,Luka Vušković,Defence,2007-02-24,Croatia
+Croatia,799,Luka Modrić,Midfield,1985-09-09,Croatia
+Croatia,799,Mateo Kovačić,Midfield,1994-05-06,Croatia
+Croatia,799,Mario Pašalić,Midfield,1995-02-09,Croatia
+Croatia,799,Nikola Vlašić,Midfield,1997-10-04,Croatia
+Croatia,799,Nikola Moro,Midfield,1998-03-12,Croatia
+Croatia,799,Kristijan Jakić,Midfield,1997-05-14,Croatia
+Croatia,799,Luka Sučić,Midfield,2002-09-08,Croatia
+Croatia,799,Petar Sucic,Midfield,2003-10-25,Croatia
+Croatia,799,Martin Baturina,Midfield,2003-02-16,Croatia
+Croatia,799,Toni Fruk,Midfield,2001-03-09,Croatia
+Croatia,799,Andrej Kramarić,Offence,1991-06-19,Croatia
+Croatia,799,Ivan Perišić,Offence,1989-02-02,Croatia
+Croatia,799,Ante Budimir,Offence,1991-07-22,Croatia
+Croatia,799,Petar Musa,Offence,1998-03-04,Croatia
+Croatia,799,Marco Pašalić,Offence,2000-09-14,Croatia
+Croatia,799,Igor Matanovic,Offence,2003-03-31,Croatia
+Saudi Arabia,801,Mohammed Al Owais,Goalkeeper,1991-10-10,Saudi Arabia
+Saudi Arabia,801,Nawaf Al Aqidi,Goalkeeper,2000-05-10,Saudi Arabia
+Saudi Arabia,801,Ahmed Al Kassar,Goalkeeper,1991-05-08,Saudi Arabia
+Saudi Arabia,801,Abdulelah Al Amri,Defence,1997-01-15,Saudi Arabia
+Saudi Arabia,801,Saud Abdulhamid,Defence,1999-07-18,Saudi Arabia
+Saudi Arabia,801,Ali Lajami,Defence,1996-04-24,Saudi Arabia
+Saudi Arabia,801,Hassan Al Tambakti,Defence,1999-02-09,Saudi Arabia
+Saudi Arabia,801,Hassan Kadesh,Defence,1992-09-27,Saudi Arabia
+Saudi Arabia,801,Moteb Al Harbi,Defence,2000-02-20,Saudi Arabia
+Saudi Arabia,801,Ali Majrashi,Defence,1999-10-01,Saudi Arabia
+Saudi Arabia,801,Jehad Thakri,Defence,2001-07-21,Saudi Arabia
+Saudi Arabia,801,Nawaf Boushal,Defence,1999-09-16,Saudi Arabia
+Saudi Arabia,801,Salem Al Dawsari,Midfield,1991-08-19,Saudi Arabia
+Saudi Arabia,801,Abdullah Al Khaibari,Midfield,1996-08-16,Saudi Arabia
+Saudi Arabia,801,Nasser Al Dawsari,Midfield,1998-12-19,Saudi Arabia
+Saudi Arabia,801,Ayman Yahya,Midfield,2001-05-14,Saudi Arabia
+Saudi Arabia,801,Musab Al Juwayr,Midfield,2003-06-20,Saudi Arabia
+Saudi Arabia,801,Mohammed Kanno,Midfield,1994-09-22,Saudi Arabia
+Saudi Arabia,801,Ziyad Al-Johani,Midfield,2001-11-11,Saudi Arabia
+Saudi Arabia,801,Mohammed Abu Al Shamat,Midfield,2002-08-11,Saudi Arabia
+Saudi Arabia,801,Alaa Al Hejji,Midfield,1995-12-03,Saudi Arabia
+Saudi Arabia,801,Sultan Mandash,Offence,1994-10-17,Saudi Arabia
+Saudi Arabia,801,Saleh Al Shehri,Offence,1993-11-01,Saudi Arabia
+Saudi Arabia,801,Abdullah Al-Hamdan,Offence,1999-09-12,Saudi Arabia
+Saudi Arabia,801,Khalid Al Ghannam,Offence,2000-11-07,Saudi Arabia
+Saudi Arabia,801,Firas Al Brikan,Offence,2000-05-14,Saudi Arabia
+Tunisia,802,Aymen Dahmen,Goalkeeper,1997-01-28,Tunisia
+Tunisia,802,Sabri Ben Hessen,Goalkeeper,1996-06-13,Tunisia
+Tunisia,802,Abdelmouhib Chamakh,Goalkeeper,2001-08-25,Tunisia
+Tunisia,802,Dylan Bronn,Defence,1995-06-19,Tunisia
+Tunisia,802,Ali El Abdi,Defence,1993-12-20,Tunisia
+Tunisia,802,Yan Valery,Defence,1999-02-22,Tunisia
+Tunisia,802,Mortadha Ben Ouanes,Defence,1994-07-02,Tunisia
+Tunisia,802,Omar Rekik,Defence,2001-12-20,Tunisia
+Tunisia,802,Yassine Chikhaoui,Defence,2004-06-09,
+Tunisia,802,Montassar Talbi,Defence,1998-05-26,Tunisia
+Tunisia,802,Moutaz Neffati,Defence,2004-09-04,Tunisia
+Tunisia,802,Mohamed Amine Ben Hamida,Defence,1995-12-15,Tunisia
+Tunisia,802,Adem Arous,Defence,2004-07-17,Tunisia
+Tunisia,802,Ellyes Skhiri,Midfield,1995-05-10,Tunisia
+Tunisia,802,Rani Khedira,Midfield,1994-01-27,Tunisia
+Tunisia,802,Anis Ben Slimane,Midfield,2001-03-16,Tunisia
+Tunisia,802,Ismaël Gharbi,Midfield,2004-04-10,Tunisia
+Tunisia,802,Hannibal Mejbri,Midfield,2003-01-21,Tunisia
+Tunisia,802,Elias Achouri,Midfield,1999-02-10,Tunisia
+Tunisia,802,Hadj Mahmoud,Midfield,2000-04-24,Tunisia
+Tunisia,802,Sebastian Tounekti,Offence,2002-07-13,Tunisia
+Tunisia,802,Firas Chaouat,Offence,1996-05-08,Tunisia
+Tunisia,802,Elias Saad,Offence,1999-12-27,Tunisia
+Tunisia,802,Hazem Mastouri,Offence,1997-06-18,Tunisia
+Tunisia,802,Rayan Elloumi,Offence,2007-09-17,Tunisia
+Tunisia,802,Khalil Ayari,Offence,2005-02-02,Tunisia
+Turkey,803,Mert Günok,Goalkeeper,1989-03-01,Turkey
+Turkey,803,Altay Bayındır,Goalkeeper,1998-04-14,Turkey
+Turkey,803,Uğurcan Çakır,Goalkeeper,1996-04-05,Turkey
+Turkey,803,Çağlar Söyüncü,Defence,1996-05-23,Turkey
+Turkey,803,Kaan Ayhan,Defence,1994-11-10,Turkey
+Turkey,803,Ferdi Kadıoğlu,Defence,1999-10-07,Turkey
+Turkey,803,Mert Müldür,Defence,1999-04-03,Turkey
+Turkey,803,Zeki Çelik,Defence,1997-02-17,Turkey
+Turkey,803,Abdülkerim Bardakcı,Defence,1994-09-07,Turkey
+Turkey,803,Ozan Kabak,Defence,2000-03-25,Turkey
+Turkey,803,Merih Demiral,Defence,1998-03-05,Turkey
+Turkey,803,Samet Akaydın,Defence,1994-03-13,Turkey
+Turkey,803,Evren Eren Elmalı,Defence,2000-07-07,Turkey
+Turkey,803,Salih Özcan,Midfield,1998-01-11,Turkey
+Turkey,803,Hakan Çalhanoğlu,Midfield,1994-02-08,Turkey
+Turkey,803,Orkun Kökçü,Midfield,2000-12-29,Turkey
+Turkey,803,İsmail Yüksek,Midfield,1999-01-26,Turkey
+Turkey,803,Arda Guler,Midfield,2005-02-25,Turkey
+Turkey,803,Oguz Aydin,Midfield,2000-10-27,Turkey
+Turkey,803,Baris Yilmaz,Midfield,2000-05-23,Turkey
+Turkey,803,İrfan Kahveci,Midfield,1995-07-15,Turkey
+Turkey,803,Yunus Akgün,Offence,2000-07-07,Turkey
+Turkey,803,Muhammed Kerem Aktürkoğlu,Offence,1998-10-21,Turkey
+Turkey,803,Deniz Gul,Offence,2004-07-02,Turkey
+Turkey,803,Kenan Yıldız,Offence,2005-05-04,Turkey
+Turkey,803,Can Uzun,Offence,2005-11-11,Turkey
+Senegal,804,Edouard Mendy,Goalkeeper,1992-03-01,Senegal
+Senegal,804,Yehvann Diouf,Goalkeeper,1999-11-16,Senegal
+Senegal,804,Mory Diaw,Goalkeeper,1993-06-22,Senegal
+Senegal,804,Ismail Jakobs,Defence,1999-08-17,Senegal
+Senegal,804,Kalidou Koulibaly,Defence,1991-06-20,Senegal
+Senegal,804,Moussa Niakhaté,Defence,1996-03-08,Senegal
+Senegal,804,Abdoulaye Seck,Defence,1992-06-04,Senegal
+Senegal,804,Antoine Mendy,Defence,2004-05-27,Senegal
+Senegal,804,Mamadou Sarr,Defence,2005-08-29,Senegal
+Senegal,804,El Hadji Diouf,Defence,2004-12-28,Senegal
+Senegal,804,Pape Gueye,Midfield,1999-01-24,Senegal
+Senegal,804,Idrissa Gana Guèye,Midfield,1989-09-26,Senegal
+Senegal,804,Ismaïla Sarr,Midfield,1998-02-25,Senegal
+Senegal,804,Krépin Diatta,Midfield,1999-02-25,Senegal
+Senegal,804,Pathé Ciss,Midfield,1994-03-16,Senegal
+Senegal,804,Iliman Ndiaye,Midfield,2000-03-06,Senegal
+Senegal,804,Pape Sarr,Midfield,2002-09-14,Senegal
+Senegal,804,Habib Diarra,Midfield,2004-01-03,Senegal
+Senegal,804,Lamine Camara,Midfield,2004-01-01,Senegal
+Senegal,804,Bara Ndiaye,Midfield,2007-12-31,Senegal
+Senegal,804,Sadio Mané,Offence,1992-04-10,Senegal
+Senegal,804,Cherif Ndiaye,Offence,1996-01-23,Senegal
+Senegal,804,Nicolas Jackson,Offence,2001-06-20,Senegal
+Senegal,804,Ahmadou Bamba Dieng,Offence,2000-03-23,Senegal
+Senegal,804,Assane Diao,Offence,2005-09-07,Senegal
+Senegal,804,Ibrahim M'Baye,Offence,2008-01-24,Senegal
+Senegal,804,Pape Thiaw,Coach,1981-02-05,Senegal
+Belgium,805,Thibaut Courtois,Goalkeeper,1992-05-11,Belgium
+Belgium,805,Senne Lammens,Goalkeeper,2002-07-07,Belgium
+Belgium,805,Mike Penders,Goalkeeper,2005-07-31,Belgium
+Belgium,805,Timothy Castagne,Defence,1995-12-05,Belgium
+Belgium,805,Thomas Meunier,Defence,1991-09-12,Belgium
+Belgium,805,Brandon Mechele,Defence,1993-01-28,Belgium
+Belgium,805,Maxim De Cuyper,Defence,2000-12-22,Belgium
+Belgium,805,Arthur Theate,Defence,2000-05-25,Belgium
+Belgium,805,Koni De Winter,Defence,2002-06-12,Belgium
+Belgium,805,Zeno Debast,Defence,2003-10-24,Belgium
+Belgium,805,Nathan Ngoy,Defence,2003-06-10,Belgium
+Belgium,805,Joaquin Seys,Defence,2005-03-28,Belgium
+Belgium,805,Kevin De Bruyne,Midfield,1991-06-28,Belgium
+Belgium,805,Axel Witsel,Midfield,1989-01-12,Belgium
+Belgium,805,Youri Tielemans,Midfield,1997-05-07,Belgium
+Belgium,805,Dodi Lukebakio,Midfield,1997-09-24,Belgium
+Belgium,805,Alexis Saelemaekers,Midfield,1999-06-27,Belgium
+Belgium,805,Hans Vanaken,Midfield,1992-08-24,Belgium
+Belgium,805,Nicolas Raskin,Midfield,2001-02-23,Belgium
+Belgium,805,Jeremy Doku,Midfield,2002-05-27,Belgium
+Belgium,805,Amadou Onana,Midfield,2001-08-16,Belgium
+Belgium,805,Diego Moreira,Midfield,2004-08-06,Belgium
+Belgium,805,Romelu Lukaku,Offence,1993-05-13,Belgium
+Belgium,805,Leandro Trossard,Offence,1994-12-04,Belgium
+Belgium,805,Charles De Ketelaere,Offence,2001-03-10,Belgium
+Belgium,805,Matias Fernandez-Pardo,Offence,2005-02-03,Belgium
+Morocco,815,Munir Mohamedi,Goalkeeper,1989-05-10,Morocco
+Morocco,815,Yassine Bounou,Goalkeeper,1991-04-05,Morocco
+Morocco,815,Ahmed Reda Tagnaouti,Goalkeeper,1996-04-05,Morocco
+Morocco,815,Achraf Hakimi,Defence,1998-11-04,Morocco
+Morocco,815,Noussair Mazraoui,Defence,1997-11-14,Morocco
+Morocco,815,Issa Diop,Defence,1997-01-09,France
+Morocco,815,Nayef Aguerd,Defence,1996-03-30,Morocco
+Morocco,815,Anass Salah-Eddine,Defence,2002-01-18,Morocco
+Morocco,815,Chadi Riad,Defence,2003-06-17,Morocco
+Morocco,815,Redouane Halhal,Defence,2003-03-05,France
+Morocco,815,Zakaria El Ouahdi,Defence,2001-12-31,Morocco
+Morocco,815,Youssef Belammari,Defence,1998-09-20,Morocco
+Morocco,815,Sofyan Amrabat,Midfield,1996-08-21,Morocco
+Morocco,815,Brahim Diaz,Midfield,1999-08-03,Morocco
+Morocco,815,Azzedine Ounahi,Midfield,2000-04-19,Morocco
+Morocco,815,Ismael Saibari,Midfield,2001-01-28,Morocco
+Morocco,815,Neil El Aynaoui,Midfield,2001-07-02,Morocco
+Morocco,815,Bilal El Khannouss,Midfield,2005-05-09,Morocco
+Morocco,815,Chemsdine Talbi,Midfield,2005-05-09,Morocco
+Morocco,815,Ayyoub Bouaddi,Midfield,2007-10-02,France
+Morocco,815,Samir El Mourabet,Midfield,2005-10-06,Morocco
+Morocco,815,Soufiane Rahimi,Offence,1996-06-02,Morocco
+Morocco,815,Ayoub El Kaabi,Offence,1993-06-25,Morocco
+Morocco,815,Abdessamad Ezzalzouli,Offence,2001-12-17,Morocco
+Morocco,815,Gessime Yassine,Offence,2005-11-22,France
+Morocco,815,Ayoube Amaimouni-Echghouyab,Offence,2004-11-30,Morocco
+Austria,816,Alexander Schlager,Goalkeeper,1996-02-01,Austria
+Austria,816,Patrick Pentz,Goalkeeper,1997-01-02,Austria
+Austria,816,Florian Wiegele,Goalkeeper,2001-03-21,Austria
+Austria,816,David Alaba,Defence,1992-06-24,Austria
+Austria,816,Stefan Posch,Defence,1997-05-14,Austria
+Austria,816,Philipp Mwene,Defence,1994-01-29,Austria
+Austria,816,Kevin Danso,Defence,1998-09-19,Austria
+Austria,816,Marco Friedl,Defence,1998-03-16,Austria
+Austria,816,Philipp Lienhart,Defence,1996-07-11,Austria
+Austria,816,Michael Svoboda,Defence,1998-10-15,Austria
+Austria,816,Alexander Prass,Defence,2001-05-26,Austria
+Austria,816,David Affengruber,Defence,2001-03-19,Austria
+Austria,816,Florian Grillitsch,Midfield,1995-08-07,Austria
+Austria,816,Alessandro Schöpf,Midfield,1994-02-07,Austria
+Austria,816,Konrad Laimer,Midfield,1997-05-27,Austria
+Austria,816,Marcel Sabitzer,Midfield,1994-03-17,Austria
+Austria,816,Xaver Schlager,Midfield,1997-09-28,Austria
+Austria,816,Romano Schmid,Midfield,2000-01-27,Austria
+Austria,816,Christoph Baumgartner,Midfield,1999-08-01,Austria
+Austria,816,Nicolas  Seiwald,Midfield,2001-05-04,Austria
+Austria,816,Patrick Wimmer,Midfield,2001-05-30,Austria
+Austria,816,Carney Chukwuemeka,Midfield,2003-10-20,Austria
+Austria,816,Paul Wanner,Midfield,2005-12-23,Austria
+Austria,816,Michael Gregoritsch,Offence,1994-04-18,Austria
+Austria,816,Marko Arnautovic,Offence,1989-04-19,Austria
+Austria,816,Saša Kalajdžić,Offence,1997-07-07,Austria
+Colombia,818,Camilo Vargas,Goalkeeper,1989-03-09,Colombia
+Colombia,818,David Ospina,Goalkeeper,1988-08-31,Colombia
+Colombia,818,Álvaro Montero,Goalkeeper,1995-03-29,Colombia
+Colombia,818,Santiago Arias,Defence,1992-01-13,Colombia
+Colombia,818,Johan Mojica,Defence,1992-08-21,Colombia
+Colombia,818,Yerry Mina,Defence,1994-09-23,Colombia
+Colombia,818,Davinson Sánchez,Defence,1996-06-12,Colombia
+Colombia,818,Deiver Machado,Defence,1993-09-02,Colombia
+Colombia,818,Daniel Muñoz,Defence,1996-05-26,Colombia
+Colombia,818,Jhon Lucumí,Defence,1998-06-26,Colombia
+Colombia,818,Willer Ditta,Defence,1997-01-23,Colombia
+Colombia,818,James Rodríguez,Midfield,1991-07-12,Colombia
+Colombia,818,Jefferson Lerma,Midfield,1994-10-25,Colombia
+Colombia,818,Jhon Arias,Midfield,1997-09-21,Colombia
+Colombia,818,Jorge Carrascal,Midfield,1998-05-25,Colombia
+Colombia,818,Kevin Castaño,Midfield,2000-09-29,Colombia
+Colombia,818,Juan Quintero,Midfield,1993-01-18,Colombia
+Colombia,818,Jaminton Campaz,Midfield,2000-05-24,Colombia
+Colombia,818,Richard Rios,Midfield,2000-06-02,Colombia
+Colombia,818,Juan Portilla,Midfield,1998-09-12,Colombia
+Colombia,818,Gustavo Puerta,Midfield,2003-07-23,Colombia
+Colombia,818,Jhon Córdoba,Offence,1993-05-11,Colombia
+Colombia,818,Luis Díaz,Offence,1997-01-13,Colombia
+Colombia,818,Luis Suárez,Offence,1997-12-02,Colombia
+Colombia,818,Cucho Hernández,Offence,1999-04-20,Colombia
+Colombia,818,Carlos Gómez,Offence,2002-09-12,Colombia
+Egypt,825,Mohamed El Shenawy,Goalkeeper,1988-12-18,Egypt
+Egypt,825,Mohamed Alaa,Goalkeeper,1999-09-01,Egypt
+Egypt,825,Oufa Shobeir,Goalkeeper,2000-03-17,Egypt
+Egypt,825,El Mahdi Soliman,Goalkeeper,1987-06-08,Egypt
+Egypt,825,Karim Hafez,Defence,1996-03-12,Egypt
+Egypt,825,Mohamed Hany,Defence,1996-01-25,Egypt
+Egypt,825,Yasser Ibrahim,Defence,1993-02-10,Egypt
+Egypt,825,Ahmed El Fotouh,Defence,1998-03-22,Egypt
+Egypt,825,Mohamed Abdelmonem,Defence,1999-02-01,Egypt
+Egypt,825,Rami Rabia,Defence,1993-05-20,Egypt
+Egypt,825,Hossam Abdelmaguid,Defence,2001-04-30,Egypt
+Egypt,825,Tarek Alaa,Defence,2002-01-05,Egypt
+Egypt,825,Zizo,Midfield,1996-01-10,Egypt
+Egypt,825,Nabil Dunga,Midfield,1996-04-06,Egypt
+Egypt,825,Hamdy Fathy,Midfield,1994-09-29,Egypt
+Egypt,825,Trezeguet,Midfield,1994-10-01,Egypt
+Egypt,825,Emam Ashour,Midfield,1998-02-20,Egypt
+Egypt,825,Mohanad Lashin,Midfield,1996-05-29,Egypt
+Egypt,825,Marwan Attia,Midfield,1998-08-12,Egypt
+Egypt,825,Mahmoud Saber,Midfield,2001-07-30,Egypt
+Egypt,825,Mostafa Ziko,Midfield,1997-04-27,Egypt
+Egypt,825,Mohamed Salah,Offence,1992-06-15,Egypt
+Egypt,825,Omar Marmoush,Offence,1999-02-07,Egypt
+Egypt,825,Haissem Hassan,Offence,2002-02-08,Egypt
+Egypt,825,Ibrahim Adel,Offence,2001-04-24,Egypt
+Egypt,825,Hamza Abdelkarim,Offence,2008-01-01,Egypt
+Canada,828,Maxime Crépeau,Goalkeeper,1994-05-11,Canada
+Canada,828,Dayne St. Clair,Goalkeeper,1997-05-09,Canada
+Canada,828,Owen Goodman,Goalkeeper,2003-11-27,Canada
+Canada,828,Alphonso Davies,Defence,2000-11-02,Canada
+Canada,828,Richie Laryea,Defence,1995-01-07,Canada
+Canada,828,Alfie Jones,Defence,1997-10-07,Canada
+Canada,828,Joel Waterman,Defence,1996-01-24,Canada
+Canada,828,Derek Cornelius,Defence,1997-11-25,Canada
+Canada,828,Alistair Johnston,Defence,1998-10-08,Canada
+Canada,828,Moise Bombito,Defence,2000-03-30,Canada
+Canada,828,Luc De Fougerolles,Defence,2005-10-12,Canada
+Canada,828,Jonathan Osorio,Midfield,1992-12-06,Canada
+Canada,828,Stephen Eustáquio,Midfield,1996-12-21,Canada
+Canada,828,Mathieu Choinière,Midfield,1999-02-07,Canada
+Canada,828,Tajon Buchanan,Midfield,1999-02-08,Canada
+Canada,828,Marcelo Flores,Midfield,2003-10-01,Canada
+Canada,828,Nathan-Dylan Saliba,Midfield,2004-02-07,Canada
+Canada,828,Ismael Kone,Midfield,2002-06-06,Canada
+Canada,828,Ali Ahmed,Midfield,2000-10-10,Canada
+Canada,828,Niko Sigur,Midfield,2003-09-09,Canada
+Canada,828,Jonathan David,Offence,2000-01-14,Canada
+Canada,828,Cyle Larin,Offence,1995-04-17,Canada
+Canada,828,Liam Millar,Offence,1999-09-27,Canada
+Canada,828,Jacob Shaffelburg,Offence,1999-11-26,Canada
+Canada,828,Tani Oluwaseyi,Offence,2000-05-15,Canada
+Canada,828,Promise Akinpelu,Offence,2001-07-03,Canada
+Haiti,836,Alexandre Pierre,Goalkeeper,2001-02-25,Haiti
+Haiti,836,Johny Placide,Goalkeeper,1988-01-29,Haiti
+Haiti,836,Josué Duverger,Goalkeeper,2000-04-27,Haiti
+Haiti,836,Carlens Arcus,Defence,1996-06-28,Haiti
+Haiti,836,Jean-Kevin Duverne,Defence,1997-08-12,Haiti
+Haiti,836,Hannes Delcroix,Defence,1999-02-28,Haiti
+Haiti,836,Martin Expérience,Defence,1999-03-09,Haiti
+Haiti,836,Ricardo Adé,Defence,1990-05-21,Haiti
+Haiti,836,Duke LaCroix,Defence,1993-10-14,Haiti
+Haiti,836,Keeto Thermoncy,Defence,2006-03-29,Haiti
+Haiti,836,Wilguens Paugain,Defence,2001-08-24,Haiti
+Haiti,836,Leverton Pierre,Midfield,1998-03-09,Haiti
+Haiti,836,Jean-Ricner Bellegarde,Midfield,1998-06-27,Haiti
+Haiti,836,Derrick Etienne,Midfield,1996-11-25,Haiti
+Haiti,836,Danley Jean Jacques,Midfield,2000-05-20,Haiti
+Haiti,836,Dominique Simon,Midfield,2000-07-29,Haiti
+Haiti,836,Carl Sainté,Midfield,2002-08-09,Haiti
+Haiti,836,Woodensky Pierre,Midfield,2004-12-30,Haiti
+Haiti,836,Duckens Nazon,Offence,1994-04-07,Haiti
+Haiti,836,Frantzdy Pierrot,Offence,1995-03-29,Haiti
+Haiti,836,Yassin Fortune,Offence,1999-01-30,Haiti
+Haiti,836,Wilson Isidor,Offence,2000-08-27,Haiti
+Haiti,836,Lenny Joseph,Offence,2000-10-12,Haiti
+Haiti,836,Louicius Don Deedson,Offence,2001-02-11,Haiti
+Haiti,836,Josué Casimir,Offence,2001-09-24,Haiti
+Haiti,836,Ruben Providence,Offence,2001-07-07,Haiti
+Iran,840,Hossein Hosseini,Goalkeeper,1992-06-30,Iran
+Iran,840,Payam Niazmand,Goalkeeper,1995-04-06,Iran
+Iran,840,Alireza Beiranvand,Goalkeeper,1992-09-21,Iran
+Iran,840,Ehsan Hajsafi,Defence,1990-02-25,Iran
+Iran,840,Ramin Rezaeian,Defence,1990-03-21,Iran
+Iran,840,Milad Mohammadi,Defence,1993-09-29,Iran
+Iran,840,Hossein Kanaanizadegan,Defence,1994-03-23,Iran
+Iran,840,Shojae Khalilzadeh,Defence,1989-05-14,Iran
+Iran,840,Rouzbeh Cheshmi,Defence,1993-07-24,Iran
+Iran,840,Saleh Hardani,Defence,1998-12-26,Iran
+Iran,840,Ali Nemati,Defence,1996-02-07,Iran
+Iran,840,Danial Eiri,Defence,2003-10-26,Iran
+Iran,840,Saeid Ezatolahi,Midfield,1996-10-01,Iran
+Iran,840,Mehdi Torabi,Midfield,1994-09-10,Iran
+Iran,840,Mohammad Ghorbani,Midfield,2001-05-21,Iran
+Iran,840,Ariya Yousefi,Midfield,2002-04-22,Iran
+Iran,840,Medhi Ghayedi,Midfield,1998-12-05,Iran
+Iran,840,Amir Razzaghinia,Midfield,2006-04-11,Iran
+Iran,840,Alireza Jahanbakhsh,Offence,1993-08-11,Iran
+Iran,840,Mehdi Taremi,Offence,1992-07-18,Iran
+Iran,840,Dennis Eckert,Offence,1997-01-09,Iran
+Iran,840,Ali Alipour,Offence,1995-11-11,Iran
+Iran,840,Shahriar Moghanlou,Offence,1994-12-21,Iran
+Iran,840,Mohammad Mohebi,Offence,1998-12-20,Iran
+Iran,840,Saman Ghoddos,Offence,1993-09-06,Iran
+Iran,840,Amir Hosseinzadeh,Offence,2000-10-30,Iran
+Bosnia and Herzegovina,1060,Martin Zlomislić,Goalkeeper,1998-08-16,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Nikola Vasilj,Goalkeeper,1995-12-02,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Mladen Jurkas,Goalkeeper,2007-10-07,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Sead Kolašinac,Defence,1993-06-20,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Dennis Hadžikadunić,Defence,1998-07-09,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Nihad Mujakić,Defence,1998-04-15,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Nikola Katić,Defence,1996-10-10,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Stjepan Radeljić,Defence,1997-09-05,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Amar Dedić,Defence,2002-08-18,Austria
+Bosnia and Herzegovina,1060,Tarik Muharemović,Defence,2003-02-28,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Nidal Čelik,Defence,2006-07-17,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Dženis Burnić,Midfield,1998-05-22,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Ivan Šunjić,Midfield,1996-10-09,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Amir Hadžiahmetović,Midfield,1997-03-08,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Armin Gigovic,Midfield,2002-04-06,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Ivan Bašić,Midfield,2002-04-30,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Benjamin Tahirovic,Midfield,2003-03-03,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Ermin Mahmic,Midfield,2005-03-14,Bosnia and Herzegovina
+Bosnia and Herzegovina,1060,Amar Memić,Midfield,2001-01-20,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Edin Džeko,Offence,1986-03-17,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Jovo Lukić,Offence,1998-11-28,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Ermedin Demirovic,Offence,1998-03-25,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Haris Tabaković,Offence,1994-06-20,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Samed Bazdar,Offence,2004-01-31,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Esmir Bajraktarevic,Offence,2005-03-10,Bosnia-Herzegovina
+Bosnia and Herzegovina,1060,Kerim Alajbegović,Offence,2007-09-21,Bosnia-Herzegovina
+Panama,1836,Luis Mejía,Goalkeeper,1991-03-16,Panama
+Panama,1836,Orlando Mosquera,Goalkeeper,1994-12-25,Panama
+Panama,1836,Cesar Samudio,Goalkeeper,1994-03-23,Panama
+Panama,1836,Roderick Miller,Defence,1992-04-03,Panama
+Panama,1836,Fidel Escobar,Defence,1995-01-09,Panama
+Panama,1836,Éric Davis,Defence,1991-03-31,Panama
+Panama,1836,Andrés Andrade,Defence,1998-10-16,Panama
+Panama,1836,César Blackman,Defence,1998-04-02,Panama
+Panama,1836,Jiovany Ramos,Defence,1997-01-26,Panama
+Panama,1836,José Cordoba,Defence,2001-06-03,Panama
+Panama,1836,Michael Murillo,Defence,1996-02-11,Panama
+Panama,1836,Edgardo Fariña,Defence,2001-09-21,Panama
+Panama,1836,Jorge Gutiérrez,Defence,1998-09-01,Panama
+Panama,1836,Adalberto Carrasquilla,Midfield,1998-11-28,Panama
+Panama,1836,José Luis Rodríguez,Midfield,1998-06-19,Panama
+Panama,1836,Cecilio Waterman,Midfield,1991-04-13,Panama
+Panama,1836,Édgar Bárcenas,Midfield,1993-10-23,Panama
+Panama,1836,Aníbal Godoy,Midfield,1990-02-10,Panama
+Panama,1836,Alberto Quintero,Midfield,1987-12-18,Panama
+Panama,1836,Carlos Harvey,Midfield,2000-02-03,Panama
+Panama,1836,César Yanis,Midfield,1996-01-28,Panama
+Panama,1836,Christian Martinez,Midfield,1997-02-06,Panama
+Panama,1836,José Fajardo,Offence,1993-08-18,Panama
+Panama,1836,Ismael Díaz,Offence,1997-05-12,Panama
+Panama,1836,Tomas Rodriguez,Offence,1999-03-09,Panama
+Panama,1836,Azarias Londoño,Offence,2001-06-21,Panama
+Cape Verde Islands,1930,Márcio Rosa,Goalkeeper,1997-02-23,Cape Verde Islands
+Cape Verde Islands,1930,Vózinha,Goalkeeper,1986-06-03,Cape Verde Islands
+Cape Verde Islands,1930,C.J. dos Santos,Goalkeeper,2000-08-24,Cape Verde Islands
+Cape Verde Islands,1930,Steven Moreira,Defence,1994-08-13,Cape Verde Islands
+Cape Verde Islands,1930,Logan Costa,Defence,2001-04-01,Cape Verde Islands
+Cape Verde Islands,1930,Roberto Lopes,Defence,1992-06-17,Cape Verde Islands
+Cape Verde Islands,1930,Diney Borges,Defence,1995-01-17,Cape Verde Islands
+Cape Verde Islands,1930,Stopira,Defence,1988-05-20,Cape Verde Islands
+Cape Verde Islands,1930,Sidny Lopes Cabral,Defence,2002-09-18,Cape Verde Islands
+Cape Verde Islands,1930,Wagner Pina,Defence,2002-11-03,Cape Verde Islands
+Cape Verde Islands,1930,Kelvin Pires,Defence,2000-06-05,Cape Verde Islands
+Cape Verde Islands,1930,Deroy Duarte,Midfield,1999-07-04,Cape Verde Islands
+Cape Verde Islands,1930,Garry Rodrigues,Midfield,1990-11-27,Cape Verde Islands
+Cape Verde Islands,1930,Kevin Pina,Midfield,1997-01-27,Cape Verde Islands
+Cape Verde Islands,1930,Laros Duarte,Midfield,1997-02-28,Cape Verde Islands
+Cape Verde Islands,1930,Yannick Semedo,Midfield,1995-12-29,Cape Verde Islands
+Cape Verde Islands,1930,Telmo Arcanjo,Midfield,2001-06-21,Cape Verde Islands
+Cape Verde Islands,1930,Jamiro Monteiro,Midfield,1993-11-23,Cape Verde Islands
+Cape Verde Islands,1930,João Paulo,Midfield,1998-05-26,Cape Verde Islands
+Cape Verde Islands,1930,Willy Semedo,Offence,1994-04-27,Cape Verde Islands
+Cape Verde Islands,1930,Ryan Mendes,Offence,1990-01-08,Cape Verde Islands
+Cape Verde Islands,1930,Jovane Cabral,Offence,1998-06-14,Cape Verde Islands
+Cape Verde Islands,1930,Gilson Tavares,Offence,2001-12-29,Cape Verde Islands
+Cape Verde Islands,1930,Nuno Da Costa,Offence,1991-02-10,Cape Verde Islands
+Cape Verde Islands,1930,Dailon Rocha Livramento,Offence,2001-05-04,Cape Verde Islands
+Cape Verde Islands,1930,Hélio Varela,Offence,2002-05-03,Cape Verde Islands
+DR Congo,1934,Timothy Fayulu,Goalkeeper,1999-07-24,Congo DR
+DR Congo,1934,Lionel Mpasi,Goalkeeper,1994-08-01,Congo DR
+DR Congo,1934,Matthieu Epolo,Goalkeeper,2005-01-15,Congo DR
+DR Congo,1934,Axel Tuanzebe,Defence,1997-11-14,Congo DR
+DR Congo,1934,Chancel Mbemba,Defence,1994-08-08,Congo DR
+DR Congo,1934,Aaron Wan-Bissaka,Defence,1997-11-26,Congo DR
+DR Congo,1934,Arthur Masuaku,Defence,1993-11-07,Congo DR
+DR Congo,1934,Joris Kayembe,Defence,1994-08-08,Congo DR
+DR Congo,1934,Dylan Batubinsika,Defence,1996-02-15,Congo DR
+DR Congo,1934,Gédéon Kalulu,Defence,1997-08-29,Congo DR
+DR Congo,1934,Steve Kapuadi,Defence,1998-04-30,Congo DR
+DR Congo,1934,Gaël Kakuta,Midfield,1991-06-21,Congo DR
+DR Congo,1934,Samuel Moutoussamy,Midfield,1996-08-12,Congo DR
+DR Congo,1934,Edo Kayembe,Midfield,1998-06-03,Congo DR
+DR Congo,1934,Aaron Tshibola,Midfield,1995-01-02,Congo DR
+DR Congo,1934,Charles Pickel,Midfield,1997-05-15,Congo DR
+DR Congo,1934,Noah Sadiki,Midfield,2004-12-17,Congo DR
+DR Congo,1934,Ngal'ayel Mukau,Midfield,2004-11-03,Congo DR
+DR Congo,1934,Yoane Wissa,Offence,1996-09-03,Congo DR
+DR Congo,1934,Theo Bongonda,Offence,1995-11-20,Congo DR
+DR Congo,1934,Cédric Bakambu,Offence,1991-04-11,Congo DR
+DR Congo,1934,Simon Banza,Offence,1996-08-13,Congo DR
+DR Congo,1934,Nathanael Mbuku,Offence,2002-03-16,Congo DR
+DR Congo,1934,Meschack Elia,Offence,1997-08-06,Congo DR
+DR Congo,1934,Brian Cipenga,Offence,1998-03-11,Congo DR
+DR Congo,1934,Fiston Mayele,Offence,1994-06-24,Congo DR
+Ivory Coast,1935,Yahia Fofana,Goalkeeper,2000-08-21,Ivory Coast
+Ivory Coast,1935,Alban Lafont,Goalkeeper,1999-01-23,Ivory Coast
+Ivory Coast,1935,Mohamed Kone,Goalkeeper,2002-03-07,Ivory Coast
+Ivory Coast,1935,Evan N'Dicka,Defence,1999-08-20,Ivory Coast
+Ivory Coast,1935,Christopher Operi,Defence,1997-04-29,Ivory Coast
+Ivory Coast,1935,Ghislain Konan,Defence,1995-12-27,Ivory Coast
+Ivory Coast,1935,Wilfried Singo,Defence,2000-12-25,Ivory Coast
+Ivory Coast,1935,Guela Doué,Defence,2002-10-17,Ivory Coast
+Ivory Coast,1935,Emmanuel Agbadou,Defence,1997-06-17,Ivory Coast
+Ivory Coast,1935,Odilon Kossounou,Defence,2001-01-04,Ivory Coast
+Ivory Coast,1935,Ousmane Diomande,Defence,2003-12-04,Ivory Coast
+Ivory Coast,1935,Franck Kessié,Midfield,1996-12-19,Ivory Coast
+Ivory Coast,1935,Seko Fofana,Midfield,1995-05-07,Ivory Coast
+Ivory Coast,1935,Ibrahim Sangaré,Midfield,1997-12-02,Ivory Coast
+Ivory Coast,1935,Jean Michaël Seri,Midfield,1991-07-19,Ivory Coast
+Ivory Coast,1935,Amad Diallo,Midfield,2002-07-11,Ivory Coast
+Ivory Coast,1935,Parfait Guiagon,Midfield,2001-02-22,Ivory Coast
+Ivory Coast,1935,Christ Ravynel Inao Oulaï,Midfield,2006-04-06,Ivory Coast
+Ivory Coast,1935,Nicolas Pépé,Offence,1995-05-29,Ivory Coast
+Ivory Coast,1935,Evann Guessand,Offence,2001-07-01,Ivory Coast
+Ivory Coast,1935,Ange-Yoan Bonny,Offence,2003-10-25,Ivory Coast
+Ivory Coast,1935,Sepe Elye Wahi,Offence,2003-01-02,Ivory Coast
+Ivory Coast,1935,Simon Adingra,Offence,2002-01-01,Ivory Coast
+Ivory Coast,1935,Oumar Diakite,Offence,2003-12-20,Ivory Coast
+Ivory Coast,1935,Bazoumana Touré,Offence,2006-03-02,Ivory Coast
+Ivory Coast,1935,Yan Diomandé,Offence,2006-11-14,Ivory Coast
+Qatar,8030,Salah Zakaria,Goalkeeper,1999-04-24,Qatar
+Qatar,8030,Meshaal Barsham,Goalkeeper,1998-02-14,Qatar
+Qatar,8030,Mahmoud Abunada,Goalkeeper,2000-02-05,Qatar
+Qatar,8030,Boualem Khoukhi,Defence,1990-07-09,Qatar
+Qatar,8030,Jassem Gaber Abdulsallam,Defence,2002-02-20,Qatar
+Qatar,8030,Homam Ahmed,Defence,1999-08-25,Qatar
+Qatar,8030,Ró-Ró,Defence,1990-08-06,Qatar
+Qatar,8030,Lucas Mendes,Defence,1990-07-03,Qatar
+Qatar,8030,Sultan Al Brake,Defence,1996-04-07,Qatar
+Qatar,8030,Hashemi Al Hussain,Defence,2003-08-15,Qatar
+Qatar,8030,Issa Laye,Defence,1997-12-22,Qatar
+Qatar,8030,Ayoub Al-Oui,Defence,2005-03-11,Qatar
+Qatar,8030,Assim Madibo,Midfield,1996-10-22,Qatar
+Qatar,8030,Abdulaziz Hatem,Midfield,1990-10-28,Qatar
+Qatar,8030,Karim Boudiaf,Midfield,1990-09-16,Qatar
+Qatar,8030,Ahmed Fathy,Midfield,1993-01-25,Qatar
+Qatar,8030,Yusuf Abdurisag,Midfield,1999-08-06,Qatar
+Qatar,8030,Ahmed Al Ganehi,Midfield,2000-09-22,Qatar
+Qatar,8030,Tahsin Jamshid,Midfield,2006-06-16,Qatar
+Qatar,8030,Mohamed Al-Mannai,Midfield,2003-10-30,Qatar
+Qatar,8030,Akram Afif,Offence,1996-11-18,Qatar
+Qatar,8030,Almoez Ali,Offence,1996-08-19,Qatar
+Qatar,8030,Mohammed Muntari,Offence,1993-12-20,Qatar
+Qatar,8030,Hassan Al Haydos,Offence,1990-12-11,Qatar
+Qatar,8030,Ahmed Alaa Eldin,Offence,1993-01-31,Qatar
+Qatar,8030,Edmílson,Offence,1994-08-19,Qatar
+Jordan,8049,Yazeed Abu Layla,Goalkeeper,1993-01-08,Jordan
+Jordan,8049,Abdallah Al Fakhouri,Goalkeeper,2000-01-22,Jordan
+Jordan,8049,Noureddin Bani Ateyah,Goalkeeper,1993-01-25,Jordan
+Jordan,8049,Ehsan Haddad,Defence,1994-02-05,Jordan
+Jordan,8049,Saleem Obaid,Defence,1992-01-17,Jordan
+Jordan,8049,Yazan Al Arab,Defence,1996-01-31,Jordan
+Jordan,8049,Mohammad Abualnadi,Defence,2001-02-08,Jordan
+Jordan,8049,Abdallah Naseeb,Defence,1994-02-25,Jordan
+Jordan,8049,Saed Al Rosan,Defence,1997-02-01,Jordan
+Jordan,8049,Husam Abu Dahab,Defence,2000-05-13,Jordan
+Jordan,8049,Anas Badawi,Defence,1997-09-13,Jordan
+Jordan,8049,Nizar Al Rashdan,Midfield,1999-03-23,Jordan
+Jordan,8049,Rajaei Ayed,Midfield,1993-07-25,Jordan
+Jordan,8049,Noor Al Rawabdeh,Midfield,1997-02-24,Jordan
+Jordan,8049,Mohammad Abu Hasheesh,Midfield,1995-05-09,Jordan
+Jordan,8049,Ibrahim Saadeh,Midfield,2000-04-27,Jordan
+Jordan,8049,Mohammad Al-Dawoud,Midfield,1992-12-04,Jordan
+Jordan,8049,Amer Jamous,Midfield,2002-07-03,Jordan
+Jordan,8049,Musa Al Taamari,Offence,1997-06-10,Jordan
+Jordan,8049,Mahmoud Al Mardi,Offence,1993-10-06,Jordan
+Jordan,8049,Ali Olwan,Offence,2000-03-26,Jordan
+Jordan,8049,Mohannad Abu Taha,Offence,2003-02-02,Jordan
+Jordan,8049,Mohammad Abu Zrayq,Offence,1997-12-30,Jordan
+Jordan,8049,Ibrahim Sabra,Offence,2006-02-01,Jordan
+Jordan,8049,Odeh Fakhoury,Offence,2005-11-20,Jordan
+Jordan,8049,Ali Azaizeh,Offence,2004-04-13,Jordan
+Iraq,8062,Jalal Hassan,Goalkeeper,1991-05-18,Iraq
+Iraq,8062,Fahad Talib,Goalkeeper,1994-10-21,Iraq
+Iraq,8062,Ahmed Basil,Goalkeeper,1996-08-19,Iraq
+Iraq,8062,Hussein Ali,Defence,2002-03-01,Iraq
+Iraq,8062,Merchas Doski,Defence,1999-12-07,Iraq
+Iraq,8062,Rebin Sulaka,Defence,1992-04-12,Iraq
+Iraq,8062,Mustafa Saadoun,Defence,2001-05-25,Iraq
+Iraq,8062,Ahmed Yahya,Defence,1995-07-01,Iraq
+Iraq,8062,Frans Putros,Defence,1993-07-14,Iraq
+Iraq,8062,Zaid Tahseen,Defence,2001-01-29,Iraq
+Iraq,8062,Manaf Younis,Defence,1996-11-16,Iraq
+Iraq,8062,Akam Hashem,Defence,1998-08-16,Iraq
+Iraq,8062,Amir Al Ammari,Midfield,1997-07-27,Iraq
+Iraq,8062,Kevin Yakob,Midfield,2000-10-10,Iraq
+Iraq,8062,Aimar Sher,Midfield,2002-12-20,Iraq
+Iraq,8062,Ibrahim Bayesh,Midfield,2000-05-01,Iraq
+Iraq,8062,Youssef Amyn,Midfield,2003-08-21,Iraq
+Iraq,8062,Ahmed Qasem,Midfield,2003-07-12,Iraq
+Iraq,8062,Zidane Iqbal,Midfield,2003-04-27,Iraq
+Iraq,8062,Zaid Ismail,Midfield,2002-01-03,Iraq
+Iraq,8062,Aymen Hussein,Offence,1996-03-22,Iraq
+Iraq,8062,Ali Al-Hamadi,Offence,2002-03-01,Iraq
+Iraq,8062,Marko Farji,Offence,2004-03-16,Iraq
+Iraq,8062,Ali Jassim El-Aibi,Offence,2004-01-20,Iraq
+Iraq,8062,Mohanad Ali,Offence,2000-06-20,Iraq
+Iraq,8062,Ali Yousif,Offence,1996-01-19,Iraq
+Uzbekistan,8070,Abduvakhid Nematov,Goalkeeper,2001-03-20,Uzbekistan
+Uzbekistan,8070,Botir Ergashev,Goalkeeper,1995-06-23,Uzbekistan
+Uzbekistan,8070,Utkir Yusupov,Goalkeeper,1991-01-04,Uzbekistan
+Uzbekistan,8070,Rustam Ashurmatov,Defence,1996-07-07,Uzbekistan
+Uzbekistan,8070,Umar Eshmurodov,Defence,1992-11-30,Uzbekistan
+Uzbekistan,8070,Abdukodir Khusanov,Defence,2004-02-29,Uzbekistan
+Uzbekistan,8070,Jakhongir O'rozov,Defence,2004-01-18,Uzbekistan
+Uzbekistan,8070,Farrukh Sayfiyev,Defence,1991-01-17,Uzbekistan
+Uzbekistan,8070,Khodjiakbar Alijonov,Defence,1997-04-19,Uzbekistan
+Uzbekistan,8070,Sherzod Nasrullayev,Defence,1998-07-23,Uzbekistan
+Uzbekistan,8070,Abdulla Abdullayev,Defence,1997-09-01,Uzbekistan
+Uzbekistan,8070,Bekhruz Karimov,Defence,2007-08-07,Uzbekistan
+Uzbekistan,8070,Avazbek Ulmasaliev,Defence,2000-03-27,Uzbekistan
+Uzbekistan,8070,Dostonbek Xamdamov,Midfield,1996-07-24,Uzbekistan
+Uzbekistan,8070,Otabek Shukurov,Midfield,1996-06-22,Uzbekistan
+Uzbekistan,8070,Oston Urunov,Midfield,2000-12-19,Uzbekistan
+Uzbekistan,8070,Jamshid Iskanderov,Midfield,1993-10-16,Uzbekistan
+Uzbekistan,8070,Akmal Mozgovoy,Midfield,2000-04-02,Uzbekistan
+Uzbekistan,8070,Abbosbek Fayzullaev,Midfield,2003-10-03,Uzbekistan
+Uzbekistan,8070,Azizjon Ganiev,Midfield,1998-02-22,Uzbekistan
+Uzbekistan,8070,Odiljon Hamrobekov,Midfield,1996-02-13,Uzbekistan
+Uzbekistan,8070,Sherzod Esanov,Midfield,2003-02-01,Uzbekistan
+Uzbekistan,8070,Eldor Shomurodov,Offence,1995-06-29,Uzbekistan
+Uzbekistan,8070,Jaloliddin Masharipov,Offence,1993-09-01,Uzbekistan
+Uzbekistan,8070,Igor Sergeev,Offence,1993-04-30,Uzbekistan
+Uzbekistan,8070,Azizbek Amonov,Offence,1997-10-30,Uzbekistan
+Netherlands,8601,Mark Flekken,Goalkeeper,1993-06-13,Netherlands
+Netherlands,8601,Bart Verbruggen,Goalkeeper,2002-08-18,Netherlands
+Netherlands,8601,Robin Roefs,Goalkeeper,2003-01-17,Netherlands
+Netherlands,8601,Denzel Dumfries,Defence,1996-04-18,Netherlands
+Netherlands,8601,Virgil van Dijk,Defence,1991-07-08,Netherlands
+Netherlands,8601,Nathan Aké,Defence,1995-02-18,Netherlands
+Netherlands,8601,Jan Paul van Hecke,Defence,2000-06-08,Netherlands
+Netherlands,8601,Jurrien Timber,Defence,2001-06-17,Netherlands
+Netherlands,8601,Mickey van de Ven,Defence,2001-04-19,Netherlands
+Netherlands,8601,Jorrel Hato,Defence,2006-03-07,Netherlands
+Netherlands,8601,Marten de Roon,Midfield,1991-03-29,Netherlands
+Netherlands,8601,Donyell Malen,Midfield,1999-01-19,Netherlands
+Netherlands,8601,Frenkie de Jong,Midfield,1997-05-12,Netherlands
+Netherlands,8601,Noa Lang,Midfield,1999-06-17,Netherlands
+Netherlands,8601,Guus Til,Midfield,1997-12-22,Netherlands
+Netherlands,8601,Teun Koopmeiners,Midfield,1998-02-28,Netherlands
+Netherlands,8601,Tijjani Reijnders,Midfield,1998-07-29,Netherlands
+Netherlands,8601,Ryan Gravenberch,Midfield,2002-05-16,Netherlands
+Netherlands,8601,Mats Wieffer,Midfield,1999-11-16,Netherlands
+Netherlands,8601,Quinten Timber,Midfield,2001-06-17,Netherlands
+Netherlands,8601,Crysencio Summerville,Midfield,2001-10-30,Netherlands
+Netherlands,8601,Cody Gakpo,Offence,1999-05-07,Netherlands
+Netherlands,8601,Justin Kluivert,Offence,1999-05-05,Netherlands
+Netherlands,8601,Wout Weghorst,Offence,1992-08-07,Netherlands
+Netherlands,8601,Memphis Depay,Offence,1994-02-13,Netherlands
+Netherlands,8601,Brian Brobbey,Offence,2002-02-01,Netherlands
+Norway,8872,Ørjan Nyland,Goalkeeper,1990-09-10,Norway
+Norway,8872,Egil Selvik,Goalkeeper,1997-07-30,Norway
+Norway,8872,Sander Tangvik,Goalkeeper,2002-11-29,Norway
+Norway,8872,Kristoffer Ajer,Defence,1998-04-17,Norway
+Norway,8872,Torbjørn Heggem,Defence,1999-01-12,Norway
+Norway,8872,Fredrik Bjørkan,Defence,1998-08-21,Norway
+Norway,8872,Marcus Pedersen,Defence,2000-07-16,Norway
+Norway,8872,Julian Ryerson,Defence,1997-11-17,Norway
+Norway,8872,Leo Østigård,Defence,1999-11-28,Norway
+Norway,8872,Henrik Falchener,Defence,2003-05-08,Norway
+Norway,8872,Sondre Langås,Defence,2001-02-02,Norway
+Norway,8872,David Wolfe,Defence,2002-04-23,Norway
+Norway,8872,Morten Thorsby,Midfield,1996-05-05,Norway
+Norway,8872,Martin Ødegaard,Midfield,1998-12-17,Norway
+Norway,8872,Sander Berge,Midfield,1998-02-14,Norway
+Norway,8872,Patrick Berg,Midfield,1997-11-24,Norway
+Norway,8872,Fredrik Aursnes,Midfield,1995-12-10,Norway
+Norway,8872,Kristian Thorstvedt,Midfield,1999-03-13,Norway
+Norway,8872,Thelo Aasgaard,Midfield,2002-05-02,Norway
+Norway,8872,Antonio Nusa,Midfield,2005-04-17,Norway
+Norway,8872,Oscar Bobb,Midfield,2003-07-12,Norway
+Norway,8872,Alexander Sørloth,Offence,1995-12-05,Norway
+Norway,8872,Jens Hauge,Offence,1999-10-12,Norway
+Norway,8872,Erling Haaland,Offence,2000-07-21,Norway
+Norway,8872,Andreas Schjelderup,Offence,2004-06-01,Norway
+Norway,8872,Jørgen Strand Larsen,Offence,2000-02-06,Norway
+Scotland,8873,Angus Gunn,Goalkeeper,1996-01-22,Scotland
+Scotland,8873,Craig Gordon,Goalkeeper,1982-12-31,Scotland
+Scotland,8873,Liam Kelly,Goalkeeper,1996-01-23,Scotland
+Scotland,8873,Grant Hanley,Defence,1991-11-20,Scotland
+Scotland,8873,Dominic Hyam,Defence,1995-12-20,Scotland
+Scotland,8873,Andrew Robertson,Defence,1994-03-11,Scotland
+Scotland,8873,Kieran Tierney,Defence,1997-06-05,Scotland
+Scotland,8873,Jack Hendry,Defence,1995-05-07,Scotland
+Scotland,8873,Anthony Ralston,Defence,1998-11-16,Scotland
+Scotland,8873,John Souttar,Defence,1996-09-25,Scotland
+Scotland,8873,Scott McKenna,Defence,1996-11-12,Scotland
+Scotland,8873,Aaron Hickey,Defence,2002-01-01,Scotland
+Scotland,8873,Nathan Patterson,Defence,2001-10-16,Scotland
+Scotland,8873,Scott McTominay,Midfield,1996-12-08,Scotland
+Scotland,8873,Kenny McLean,Midfield,1992-01-08,Scotland
+Scotland,8873,Ryan Christie,Midfield,1995-02-22,Scotland
+Scotland,8873,Lewis Ferguson,Midfield,1999-08-24,Scotland
+Scotland,8873,John McGinn,Midfield,1994-10-18,Scotland
+Scotland,8873,Ben Doak,Midfield,2005-11-11,Scotland
+Scotland,8873,Findlay Curtis,Midfield,,Scotland
+Scotland,8873,Tyler Fletcher,Midfield,2007-03-19,England
+Scotland,8873,Che Adams,Offence,1996-07-13,Scotland
+Scotland,8873,George Hirst,Offence,1999-02-15,Scotland
+Scotland,8873,Ross Stewart,Offence,1996-07-11,Scotland
+Scotland,8873,Lyndon Dykes,Offence,1995-10-07,Scotland
+Scotland,8873,Lawrence Shankland,Offence,1995-08-10,Scotland
+Curaçao,9460,Trevor Doornbusch,Goalkeeper,1999-07-06,Curaçao
+Curaçao,9460,Eloy Room,Goalkeeper,1989-02-06,Curaçao
+Curaçao,9460,Tyrick Bodak,Goalkeeper,2002-02-15,Curaçao
+Curaçao,9460,Roshon van Eijma,Defence,1998-06-09,Curaçao
+Curaçao,9460,Joshua Brenet,Defence,1994-03-20,Curaçao
+Curaçao,9460,Armando Obispo,Defence,1999-03-05,Curaçao
+Curaçao,9460,Sheral Floranus,Defence,1998-08-23,Curaçao
+Curaçao,9460,Riechedly Bazoer,Defence,1996-10-12,Curaçao
+Curaçao,9460,Juriën Gaari,Defence,1993-12-23,Curaçao
+Curaçao,9460,Shurandy Sambo,Defence,2001-08-19,Curaçao
+Curaçao,9460,Ar'jany Martha,Defence,2003-09-04,Curaçao
+Curaçao,9460,Livano Comenencia,Defence,2004-02-03,Curaçao
+Curaçao,9460,Deveron Fonville,Defence,2003-05-16,Curaçao
+Curaçao,9460,Tyrese Noslin,Defence,2002-09-11,Curaçao
+Curaçao,9460,Leandro Bacuna,Midfield,1991-08-21,Curaçao
+Curaçao,9460,Godfried Roemeratoe,Midfield,1999-08-19,Curaçao
+Curaçao,9460,Juninho Bacuna,Midfield,1997-08-07,Curaçao
+Curaçao,9460,Kevin Felida,Midfield,1999-11-11,Curaçao
+Curaçao,9460,Gervane Kastaneer,Offence,1996-06-09,Curaçao
+Curaçao,9460,Kenji Gorré,Offence,1994-09-29,Curaçao
+Curaçao,9460,Jürgen Locadia,Offence,1993-11-07,Curaçao
+Curaçao,9460,Tahith Chong,Offence,1999-12-04,Curaçao
+Curaçao,9460,Sontje Hansen,Offence,2002-05-18,Curaçao
+Curaçao,9460,Jearl Margaritha,Offence,2000-04-10,Curaçao
+Curaçao,9460,Jeremy Antonisse,Offence,2002-03-29,Curaçao
+Curaçao,9460,Brandley Kuwas,Offence,1992-09-19,Curaçao
