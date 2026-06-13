@@ -1,73 +1,73 @@
 group,home,away,pred_home,pred_away,home_win_prob,draw_prob,away_win_prob
-A,Mexico,South Korea,1,1,0.386,0.14,0.474
-A,Mexico,Czech Republic,2,0,0.712,0.14,0.148
-A,Mexico,South Africa,1,0,0.486,0.14,0.374
-A,South Korea,Czech Republic,2,1,0.611,0.14,0.249
-A,South Korea,South Africa,2,0,0.702,0.14,0.158
-A,Czech Republic,South Africa,2,0,0.693,0.14,0.167
-B,Bosnia and Herzegovina,Canada,2,3,0.079,0.44,0.481
-B,Bosnia and Herzegovina,Qatar,2,0,0.262,0.44,0.298
-B,Bosnia and Herzegovina,Switzerland,1,2,0.056,0.44,0.504
-B,Canada,Qatar,1,0,0.506,0.14,0.354
-B,Canada,Switzerland,0,1,0.228,0.14,0.632
-B,Qatar,Switzerland,0,1,0.063,0.391,0.546
-C,Brazil,Haiti,2,0,0.837,0.14,0.023
-C,Brazil,Morocco,1,0,0.67,0.14,0.19
-C,Brazil,Scotland,2,0,0.747,0.213,0.04
-C,Haiti,Morocco,0,1,0.043,0.378,0.579
-C,Haiti,Scotland,0,2,0.2,0.151,0.649
-C,Morocco,Scotland,0,0,0.487,0.14,0.373
-D,Australia,Paraguay,1,0,0.579,0.14,0.281
-D,Australia,Turkey,0,1,0.289,0.223,0.488
-D,Australia,United States,0,2,0.171,0.14,0.689
-D,Paraguay,Turkey,0,1,0.175,0.429,0.396
-D,Paraguay,United States,0,1,0.089,0.282,0.629
-D,Turkey,United States,0,2,0.164,0.14,0.696
-E,Curacao,Ecuador,1,1,0.323,0.14,0.537
-E,Curacao,Germany,0,2,0.117,0.14,0.743
-E,Curacao,Cote dIvoire,1,1,0.329,0.14,0.531
-E,Ecuador,Germany,0,2,0.117,0.14,0.743
-E,Ecuador,Cote dIvoire,1,1,0.329,0.14,0.531
-E,Germany,Cote dIvoire,2,0,0.772,0.14,0.088
-F,Japan,Netherlands,0,1,0.172,0.14,0.688
-F,Japan,Sweden,1,0,0.512,0.14,0.348
-F,Japan,Tunisia,2,0,0.72,0.14,0.14
-F,Netherlands,Sweden,1,0,0.729,0.14,0.131
-F,Netherlands,Tunisia,2,0,0.788,0.14,0.072
-F,Sweden,Tunisia,1,1,0.377,0.14,0.483
-G,Belgium,Egypt,2,0,0.745,0.193,0.062
-G,Belgium,Iran,1,0,0.658,0.284,0.058
-G,Belgium,New Zealand,1,0,0.826,0.14,0.034
-G,Egypt,Iran,0,1,0.344,0.14,0.516
-G,Egypt,New Zealand,2,0,0.669,0.14,0.191
-G,Iran,New Zealand,1,0,0.66,0.14,0.2
-H,Cape Verde,Saudi Arabia,1,2,0.302,0.159,0.539
-H,Cape Verde,Spain,0,2,0.06,0.14,0.8
-H,Cape Verde,Uruguay,0,2,0.188,0.14,0.672
-H,Saudi Arabia,Spain,0,1,0.052,0.14,0.808
-H,Saudi Arabia,Uruguay,0,1,0.169,0.14,0.691
-H,Spain,Uruguay,2,0,0.599,0.14,0.261
-I,France,Iraq,2,0,0.848,0.14,0.012
-I,France,Norway,2,0,0.798,0.14,0.062
-I,France,Senegal,2,0,0.71,0.14,0.15
-I,Iraq,Norway,0,1,0.086,0.14,0.774
-I,Iraq,Senegal,0,2,0.063,0.212,0.725
-I,Norway,Senegal,1,0,0.529,0.14,0.331
-J,Algeria,Argentina,0,2,0.032,0.14,0.828
-J,Algeria,Austria,0,2,0.177,0.14,0.683
-J,Algeria,Jordan,1,0,0.603,0.156,0.241
-J,Argentina,Austria,2,0,0.796,0.14,0.064
-J,Argentina,Jordan,2,0,0.842,0.14,0.018
-J,Austria,Jordan,1,0,0.499,0.355,0.146
-K,Colombia,DR Congo,2,0,0.802,0.157,0.042
-K,Colombia,Portugal,1,0,0.44,0.14,0.42
-K,Colombia,Uzbekistan,2,0,0.81,0.14,0.05
-K,DR Congo,Portugal,0,2,0.031,0.242,0.727
-K,DR Congo,Uzbekistan,1,1,0.372,0.14,0.488
-K,Portugal,Uzbekistan,2,0,0.822,0.14,0.038
-L,Croatia,England,1,1,0.446,0.14,0.414
-L,Croatia,Ghana,2,0,0.574,0.271,0.155
-L,Croatia,Panama,4,0,0.535,0.387,0.079
-L,England,Ghana,1,0,0.504,0.14,0.356
-L,England,Panama,4,0,0.736,0.234,0.031
-L,Ghana,Panama,3,0,0.393,0.44,0.167
+A,Mexico,South Korea,2,0,0.661,0.14,0.199
+A,Mexico,Czech Republic,2,0,0.785,0.14,0.075
+A,Mexico,South Africa,1,0,0.614,0.14,0.246
+A,South Korea,Czech Republic,2,1,0.519,0.14,0.341
+A,South Korea,South Africa,2,0,0.732,0.14,0.128
+A,Czech Republic,South Africa,2,0,0.672,0.14,0.188
+B,Bosnia and Herzegovina,Canada,2,3,0.093,0.44,0.467
+B,Bosnia and Herzegovina,Qatar,2,3,0.199,0.44,0.361
+B,Bosnia and Herzegovina,Switzerland,1,2,0.04,0.44,0.52
+B,Canada,Qatar,1,0,0.419,0.14,0.441
+B,Canada,Switzerland,0,1,0.158,0.14,0.702
+B,Qatar,Switzerland,0,1,0.069,0.39,0.541
+C,Brazil,Haiti,2,0,0.847,0.14,0.013
+C,Brazil,Morocco,1,0,0.592,0.14,0.268
+C,Brazil,Scotland,2,0,0.732,0.233,0.035
+C,Haiti,Morocco,0,1,0.014,0.44,0.546
+C,Haiti,Scotland,0,2,0.148,0.14,0.712
+C,Morocco,Scotland,1,0,0.523,0.151,0.327
+D,Australia,Paraguay,1,0,0.556,0.14,0.304
+D,Australia,Turkey,0,1,0.32,0.142,0.539
+D,Australia,United States,0,2,0.27,0.14,0.59
+D,Paraguay,Turkey,0,1,0.194,0.44,0.366
+D,Paraguay,United States,0,1,0.086,0.205,0.708
+D,Turkey,United States,0,2,0.144,0.14,0.716
+E,Curacao,Ecuador,0,1,0.1,0.196,0.705
+E,Curacao,Germany,0,2,0.037,0.14,0.823
+E,Curacao,Cote dIvoire,0,1,0.188,0.181,0.631
+E,Ecuador,Germany,0,2,0.139,0.14,0.721
+E,Ecuador,Cote dIvoire,1,1,0.444,0.14,0.416
+E,Germany,Cote dIvoire,2,0,0.791,0.14,0.069
+F,Japan,Netherlands,0,1,0.168,0.14,0.692
+F,Japan,Sweden,2,0,0.753,0.14,0.107
+F,Japan,Tunisia,1,0,0.751,0.14,0.109
+F,Netherlands,Sweden,1,0,0.734,0.215,0.051
+F,Netherlands,Tunisia,2,0,0.823,0.14,0.037
+F,Sweden,Tunisia,1,2,0.327,0.14,0.533
+G,Belgium,Egypt,2,0,0.774,0.14,0.086
+G,Belgium,Iran,1,0,0.402,0.44,0.158
+G,Belgium,New Zealand,1,0,0.846,0.14,0.014
+G,Egypt,Iran,0,1,0.178,0.14,0.682
+G,Egypt,New Zealand,2,0,0.698,0.14,0.162
+G,Iran,New Zealand,1,0,0.825,0.14,0.035
+H,Cape Verde,Saudi Arabia,0,2,0.268,0.147,0.585
+H,Cape Verde,Spain,0,1,0.013,0.14,0.847
+H,Cape Verde,Uruguay,0,1,0.04,0.277,0.683
+H,Saudi Arabia,Spain,0,1,0.014,0.14,0.846
+H,Saudi Arabia,Uruguay,0,1,0.044,0.14,0.816
+H,Spain,Uruguay,1,0,0.467,0.14,0.393
+I,France,Iraq,2,0,0.842,0.14,0.018
+I,France,Norway,1,0,0.813,0.14,0.047
+I,France,Senegal,2,0,0.412,0.14,0.448
+I,Iraq,Norway,0,1,0.148,0.14,0.712
+I,Iraq,Senegal,0,2,0.047,0.14,0.813
+I,Norway,Senegal,1,2,0.114,0.278,0.608
+J,Algeria,Argentina,0,2,0.051,0.14,0.809
+J,Algeria,Austria,0,2,0.233,0.14,0.627
+J,Algeria,Jordan,1,0,0.552,0.14,0.308
+J,Argentina,Austria,2,0,0.791,0.14,0.069
+J,Argentina,Jordan,2,0,0.85,0.14,0.01
+J,Austria,Jordan,1,0,0.496,0.44,0.064
+K,Colombia,DR Congo,2,0,0.771,0.177,0.051
+K,Colombia,Portugal,1,3,0.237,0.14,0.623
+K,Colombia,Uzbekistan,2,0,0.831,0.14,0.029
+K,DR Congo,Portugal,0,2,0.027,0.212,0.761
+K,DR Congo,Uzbekistan,1,1,0.468,0.14,0.392
+K,Portugal,Uzbekistan,2,0,0.845,0.14,0.015
+L,Croatia,England,1,2,0.199,0.14,0.661
+L,Croatia,Ghana,2,0,0.842,0.14,0.018
+L,Croatia,Panama,4,0,0.645,0.286,0.069
+L,England,Ghana,1,0,0.55,0.14,0.31
+L,England,Panama,4,0,0.72,0.239,0.04
+L,Ghana,Panama,3,4,0.107,0.44,0.453

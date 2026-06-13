@@ -1,105 +1,105 @@
 round,home,away,pred_home_score,pred_away_score,home_win_prob,draw_prob,away_win_prob,predicted_winner
-Group A,Mexico,South Korea,1,1,0.386,0.14,0.474,South Korea
-Group A,Mexico,Czech Republic,2,0,0.712,0.14,0.148,Mexico
-Group A,Mexico,South Africa,1,0,0.486,0.14,0.374,Mexico
-Group A,South Korea,Czech Republic,2,1,0.611,0.14,0.249,South Korea
-Group A,South Korea,South Africa,2,0,0.702,0.14,0.158,South Korea
-Group A,Czech Republic,South Africa,2,0,0.693,0.14,0.167,Czech Republic
-Group B,Bosnia and Herzegovina,Canada,2,3,0.079,0.44,0.481,Canada
-Group B,Bosnia and Herzegovina,Qatar,2,0,0.262,0.44,0.298,Qatar
-Group B,Bosnia and Herzegovina,Switzerland,1,2,0.056,0.44,0.504,Switzerland
-Group B,Canada,Qatar,1,0,0.506,0.14,0.354,Canada
-Group B,Canada,Switzerland,0,1,0.228,0.14,0.632,Switzerland
-Group B,Qatar,Switzerland,0,1,0.063,0.391,0.546,Switzerland
-Group C,Brazil,Haiti,2,0,0.837,0.14,0.023,Brazil
-Group C,Brazil,Morocco,1,0,0.67,0.14,0.19,Brazil
-Group C,Brazil,Scotland,2,0,0.747,0.213,0.04,Brazil
-Group C,Haiti,Morocco,0,1,0.043,0.378,0.579,Morocco
-Group C,Haiti,Scotland,0,2,0.2,0.151,0.649,Scotland
-Group C,Morocco,Scotland,0,0,0.487,0.14,0.373,Morocco
-Group D,Australia,Paraguay,1,0,0.579,0.14,0.281,Australia
-Group D,Australia,Turkey,0,1,0.289,0.223,0.488,Turkey
-Group D,Australia,United States,0,2,0.171,0.14,0.689,United States
-Group D,Paraguay,Turkey,0,1,0.175,0.429,0.396,Turkey
-Group D,Paraguay,United States,0,1,0.089,0.282,0.629,United States
-Group D,Turkey,United States,0,2,0.164,0.14,0.696,United States
-Group E,Curacao,Ecuador,1,1,0.323,0.14,0.537,Ecuador
-Group E,Curacao,Germany,0,2,0.117,0.14,0.743,Germany
-Group E,Curacao,Cote dIvoire,1,1,0.329,0.14,0.531,Cote dIvoire
-Group E,Ecuador,Germany,0,2,0.117,0.14,0.743,Germany
-Group E,Ecuador,Cote dIvoire,1,1,0.329,0.14,0.531,Cote dIvoire
-Group E,Germany,Cote dIvoire,2,0,0.772,0.14,0.088,Germany
-Group F,Japan,Netherlands,0,1,0.172,0.14,0.688,Netherlands
-Group F,Japan,Sweden,1,0,0.512,0.14,0.348,Japan
-Group F,Japan,Tunisia,2,0,0.72,0.14,0.14,Japan
-Group F,Netherlands,Sweden,1,0,0.729,0.14,0.131,Netherlands
-Group F,Netherlands,Tunisia,2,0,0.788,0.14,0.072,Netherlands
-Group F,Sweden,Tunisia,1,1,0.377,0.14,0.483,Tunisia
-Group G,Belgium,Egypt,2,0,0.745,0.193,0.062,Belgium
-Group G,Belgium,Iran,1,0,0.658,0.284,0.058,Belgium
-Group G,Belgium,New Zealand,1,0,0.826,0.14,0.034,Belgium
-Group G,Egypt,Iran,0,1,0.344,0.14,0.516,Iran
-Group G,Egypt,New Zealand,2,0,0.669,0.14,0.191,Egypt
-Group G,Iran,New Zealand,1,0,0.66,0.14,0.2,Iran
-Group H,Cape Verde,Saudi Arabia,1,2,0.302,0.159,0.539,Saudi Arabia
-Group H,Cape Verde,Spain,0,2,0.06,0.14,0.8,Spain
-Group H,Cape Verde,Uruguay,0,2,0.188,0.14,0.672,Uruguay
-Group H,Saudi Arabia,Spain,0,1,0.052,0.14,0.808,Spain
-Group H,Saudi Arabia,Uruguay,0,1,0.169,0.14,0.691,Uruguay
-Group H,Spain,Uruguay,2,0,0.599,0.14,0.261,Spain
-Group I,France,Iraq,2,0,0.848,0.14,0.012,France
-Group I,France,Norway,2,0,0.798,0.14,0.062,France
-Group I,France,Senegal,2,0,0.71,0.14,0.15,France
-Group I,Iraq,Norway,0,1,0.086,0.14,0.774,Norway
-Group I,Iraq,Senegal,0,2,0.063,0.212,0.725,Senegal
-Group I,Norway,Senegal,1,0,0.529,0.14,0.331,Norway
-Group J,Algeria,Argentina,0,2,0.032,0.14,0.828,Argentina
-Group J,Algeria,Austria,0,2,0.177,0.14,0.683,Austria
-Group J,Algeria,Jordan,1,0,0.603,0.156,0.241,Algeria
-Group J,Argentina,Austria,2,0,0.796,0.14,0.064,Argentina
-Group J,Argentina,Jordan,2,0,0.842,0.14,0.018,Argentina
-Group J,Austria,Jordan,1,0,0.499,0.355,0.146,Austria
-Group K,Colombia,DR Congo,2,0,0.802,0.157,0.042,Colombia
-Group K,Colombia,Portugal,1,0,0.44,0.14,0.42,Colombia
-Group K,Colombia,Uzbekistan,2,0,0.81,0.14,0.05,Colombia
-Group K,DR Congo,Portugal,0,2,0.031,0.242,0.727,Portugal
-Group K,DR Congo,Uzbekistan,1,1,0.372,0.14,0.488,Uzbekistan
-Group K,Portugal,Uzbekistan,2,0,0.822,0.14,0.038,Portugal
-Group L,Croatia,England,1,1,0.446,0.14,0.414,Croatia
-Group L,Croatia,Ghana,2,0,0.574,0.271,0.155,Croatia
-Group L,Croatia,Panama,4,0,0.535,0.387,0.079,Croatia
-Group L,England,Ghana,1,0,0.504,0.14,0.356,England
-Group L,England,Panama,4,0,0.736,0.234,0.031,England
-Group L,Ghana,Panama,3,0,0.393,0.44,0.167,Ghana
-R32,Croatia,Portugal,1,2,0.249,0.0,0.751,Portugal
-R32,Colombia,Brazil,1,0,0.573,0.0,0.427,Colombia
-R32,Curacao,Scotland,2,0,0.641,0.0,0.359,Curacao
-R32,Egypt,Ghana,0,2,0.304,0.0,0.696,Ghana
-R32,Norway,Canada,2,0,0.617,0.0,0.383,Norway
-R32,Morocco,Netherlands,0,1,0.509,0.0,0.491,Morocco
-R32,Japan,France,0,2,0.16,0.0,0.84,France
-R32,Senegal,Bosnia and Herzegovina,2,1,0.86,0.0,0.14,Senegal
-R32,England,Switzerland,2,0,0.75,0.0,0.25,England
-R32,Australia,Belgium,0,1,0.172,0.0,0.828,Belgium
-R32,Germany,Iran,2,0,0.86,0.0,0.14,Germany
-R32,Saudi Arabia,Uruguay,0,1,0.239,0.0,0.761,Uruguay
-R32,Argentina,Spain,1,1,0.688,0.0,0.312,Argentina
-R32,Czech Republic,United States,0,2,0.226,0.0,0.774,United States
-R32,South Korea,Austria,1,1,0.611,0.0,0.389,South Korea
-R32,Turkey,Mexico,0,2,0.299,0.0,0.701,Mexico
-R16,Portugal,Colombia,1,1,0.621,0.0,0.379,Portugal
-R16,Curacao,Ghana,1,0,0.681,0.0,0.319,Curacao
-R16,Norway,Morocco,0,1,0.495,0.0,0.505,Morocco
-R16,France,Senegal,2,0,0.845,0.0,0.155,France
-R16,England,Belgium,0,1,0.654,0.0,0.346,England
-R16,Germany,Uruguay,1,0,0.738,0.0,0.262,Germany
-R16,Argentina,United States,2,0,0.795,0.0,0.205,Argentina
-R16,South Korea,Mexico,0,2,0.357,0.0,0.643,Mexico
-QF,Portugal,Curacao,2,0,0.827,0.0,0.173,Portugal
-QF,Morocco,France,0,1,0.196,0.0,0.804,France
-QF,England,Germany,0,1,0.412,0.0,0.588,Germany
-QF,Argentina,Mexico,1,0,0.825,0.0,0.175,Argentina
-3rd Place,Curacao,Morocco,0,1,0.353,0.0,0.647,Morocco
-3rd Place,England,Mexico,1,0,0.716,0.0,0.284,England
-Final,Portugal,France,1,2,0.41,0.0,0.59,France
-Final,Germany,Argentina,1,0,0.513,0.0,0.487,Germany
+Group A,Mexico,South Korea,2,0,0.661,0.14,0.199,Mexico
+Group A,Mexico,Czech Republic,2,0,0.785,0.14,0.075,Mexico
+Group A,Mexico,South Africa,1,0,0.614,0.14,0.246,Mexico
+Group A,South Korea,Czech Republic,2,1,0.519,0.14,0.341,South Korea
+Group A,South Korea,South Africa,2,0,0.732,0.14,0.128,South Korea
+Group A,Czech Republic,South Africa,2,0,0.672,0.14,0.188,Czech Republic
+Group B,Bosnia and Herzegovina,Canada,2,3,0.093,0.44,0.467,Canada
+Group B,Bosnia and Herzegovina,Qatar,2,3,0.199,0.44,0.361,Qatar
+Group B,Bosnia and Herzegovina,Switzerland,1,2,0.04,0.44,0.52,Switzerland
+Group B,Canada,Qatar,1,0,0.419,0.14,0.441,Qatar
+Group B,Canada,Switzerland,0,1,0.158,0.14,0.702,Switzerland
+Group B,Qatar,Switzerland,0,1,0.069,0.39,0.541,Switzerland
+Group C,Brazil,Haiti,2,0,0.847,0.14,0.013,Brazil
+Group C,Brazil,Morocco,1,0,0.592,0.14,0.268,Brazil
+Group C,Brazil,Scotland,2,0,0.732,0.233,0.035,Brazil
+Group C,Haiti,Morocco,0,1,0.014,0.44,0.546,Morocco
+Group C,Haiti,Scotland,0,2,0.148,0.14,0.712,Scotland
+Group C,Morocco,Scotland,1,0,0.523,0.151,0.327,Morocco
+Group D,Australia,Paraguay,1,0,0.556,0.14,0.304,Australia
+Group D,Australia,Turkey,0,1,0.32,0.142,0.539,Turkey
+Group D,Australia,United States,0,2,0.27,0.14,0.59,United States
+Group D,Paraguay,Turkey,0,1,0.194,0.44,0.366,Turkey
+Group D,Paraguay,United States,0,1,0.086,0.205,0.708,United States
+Group D,Turkey,United States,0,2,0.144,0.14,0.716,United States
+Group E,Curacao,Ecuador,0,1,0.1,0.196,0.705,Ecuador
+Group E,Curacao,Germany,0,2,0.037,0.14,0.823,Germany
+Group E,Curacao,Cote dIvoire,0,1,0.188,0.181,0.631,Cote dIvoire
+Group E,Ecuador,Germany,0,2,0.139,0.14,0.721,Germany
+Group E,Ecuador,Cote dIvoire,1,1,0.444,0.14,0.416,Ecuador
+Group E,Germany,Cote dIvoire,2,0,0.791,0.14,0.069,Germany
+Group F,Japan,Netherlands,0,1,0.168,0.14,0.692,Netherlands
+Group F,Japan,Sweden,2,0,0.753,0.14,0.107,Japan
+Group F,Japan,Tunisia,1,0,0.751,0.14,0.109,Japan
+Group F,Netherlands,Sweden,1,0,0.734,0.215,0.051,Netherlands
+Group F,Netherlands,Tunisia,2,0,0.823,0.14,0.037,Netherlands
+Group F,Sweden,Tunisia,1,2,0.327,0.14,0.533,Tunisia
+Group G,Belgium,Egypt,2,0,0.774,0.14,0.086,Belgium
+Group G,Belgium,Iran,1,0,0.402,0.44,0.158,Belgium
+Group G,Belgium,New Zealand,1,0,0.846,0.14,0.014,Belgium
+Group G,Egypt,Iran,0,1,0.178,0.14,0.682,Iran
+Group G,Egypt,New Zealand,2,0,0.698,0.14,0.162,Egypt
+Group G,Iran,New Zealand,1,0,0.825,0.14,0.035,Iran
+Group H,Cape Verde,Saudi Arabia,0,2,0.268,0.147,0.585,Saudi Arabia
+Group H,Cape Verde,Spain,0,1,0.013,0.14,0.847,Spain
+Group H,Cape Verde,Uruguay,0,1,0.04,0.277,0.683,Uruguay
+Group H,Saudi Arabia,Spain,0,1,0.014,0.14,0.846,Spain
+Group H,Saudi Arabia,Uruguay,0,1,0.044,0.14,0.816,Uruguay
+Group H,Spain,Uruguay,1,0,0.467,0.14,0.393,Spain
+Group I,France,Iraq,2,0,0.842,0.14,0.018,France
+Group I,France,Norway,1,0,0.813,0.14,0.047,France
+Group I,France,Senegal,2,0,0.412,0.14,0.448,Senegal
+Group I,Iraq,Norway,0,1,0.148,0.14,0.712,Norway
+Group I,Iraq,Senegal,0,2,0.047,0.14,0.813,Senegal
+Group I,Norway,Senegal,1,2,0.114,0.278,0.608,Senegal
+Group J,Algeria,Argentina,0,2,0.051,0.14,0.809,Argentina
+Group J,Algeria,Austria,0,2,0.233,0.14,0.627,Austria
+Group J,Algeria,Jordan,1,0,0.552,0.14,0.308,Algeria
+Group J,Argentina,Austria,2,0,0.791,0.14,0.069,Argentina
+Group J,Argentina,Jordan,2,0,0.85,0.14,0.01,Argentina
+Group J,Austria,Jordan,1,0,0.496,0.44,0.064,Austria
+Group K,Colombia,DR Congo,2,0,0.771,0.177,0.051,Colombia
+Group K,Colombia,Portugal,1,3,0.237,0.14,0.623,Portugal
+Group K,Colombia,Uzbekistan,2,0,0.831,0.14,0.029,Colombia
+Group K,DR Congo,Portugal,0,2,0.027,0.212,0.761,Portugal
+Group K,DR Congo,Uzbekistan,1,1,0.468,0.14,0.392,DR Congo
+Group K,Portugal,Uzbekistan,2,0,0.845,0.14,0.015,Portugal
+Group L,Croatia,England,1,2,0.199,0.14,0.661,England
+Group L,Croatia,Ghana,2,0,0.842,0.14,0.018,Croatia
+Group L,Croatia,Panama,4,0,0.645,0.286,0.069,Croatia
+Group L,England,Ghana,1,0,0.55,0.14,0.31,England
+Group L,England,Panama,4,0,0.72,0.239,0.04,England
+Group L,Ghana,Panama,3,4,0.107,0.44,0.453,Panama
+R32,England,Colombia,0,1,0.452,0.0,0.548,Colombia
+R32,Portugal,Brazil,1,2,0.565,0.0,0.435,Portugal
+R32,Ecuador,Morocco,0,2,0.31,0.0,0.69,Morocco
+R32,Scotland,Czech Republic,0,1,0.447,0.0,0.553,Czech Republic
+R32,Senegal,Canada,2,0,0.808,0.0,0.192,Senegal
+R32,Cote dIvoire,Netherlands,0,1,0.13,0.0,0.87,Netherlands
+R32,Japan,France,0,2,0.192,0.0,0.808,France
+R32,Norway,Saudi Arabia,2,0,0.586,0.0,0.414,Norway
+R32,Croatia,Switzerland,2,0,0.742,0.0,0.258,Croatia
+R32,Tunisia,Belgium,0,1,0.11,0.0,0.89,Belgium
+R32,Germany,Iran,2,0,0.732,0.0,0.268,Germany
+R32,Egypt,Uruguay,0,1,0.209,0.0,0.791,Uruguay
+R32,Argentina,Spain,1,1,0.662,0.0,0.338,Argentina
+R32,Qatar,United States,0,1,0.198,0.0,0.802,United States
+R32,Mexico,Austria,2,0,0.762,0.0,0.238,Mexico
+R32,Turkey,South Korea,1,2,0.466,0.0,0.534,South Korea
+R16,Colombia,Portugal,1,3,0.442,0.0,0.558,Portugal
+R16,Morocco,Czech Republic,1,0,0.736,0.0,0.264,Morocco
+R16,Senegal,Netherlands,0,1,0.289,0.0,0.711,Netherlands
+R16,France,Norway,1,0,0.883,0.0,0.117,France
+R16,Croatia,Belgium,1,1,0.626,0.0,0.374,Croatia
+R16,Germany,Uruguay,1,0,0.72,0.0,0.28,Germany
+R16,Argentina,United States,2,0,0.78,0.0,0.22,Argentina
+R16,Mexico,South Korea,2,0,0.772,0.0,0.228,Mexico
+QF,Portugal,Morocco,1,0,0.674,0.0,0.326,Portugal
+QF,Netherlands,France,1,2,0.529,0.0,0.471,Netherlands
+QF,Croatia,Germany,1,1,0.596,0.0,0.404,Croatia
+QF,Argentina,Mexico,1,0,0.791,0.0,0.209,Argentina
+3rd Place,Morocco,France,0,1,0.31,0.0,0.69,France
+3rd Place,Germany,Mexico,1,0,0.697,0.0,0.303,Germany
+Final,Portugal,Netherlands,2,1,0.686,0.0,0.314,Portugal
+Final,Croatia,Argentina,1,1,0.538,0.0,0.462,Croatia
