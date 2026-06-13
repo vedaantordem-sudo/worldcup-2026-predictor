@@ -1,0 +1,646 @@
+player,team,position,rating,goals_per_match,expected_matches,projected_goals
+Lionel Messi,Argentina,Offence,9.8,0.588,4.92,2.89
+Kylian Mbappé,France,Offence,9.5,0.57,4.92,2.8
+Lamine Yamal,Spain,Offence,9.0,0.54,4.75,2.57
+Lautaro Martínez,Argentina,Offence,8.5,0.51,4.92,2.51
+Julián Álvarez,Argentina,Offence,8.5,0.51,4.92,2.51
+Florian Wirtz,Germany,Midfield,9.0,0.54,4.53,2.45
+Harry Kane,England,Offence,9.2,0.552,4.4,2.43
+Pedri,Spain,Midfield,8.5,0.51,4.75,2.42
+Jamal Musiala,Germany,Midfield,8.8,0.528,4.53,2.39
+Cody Gakpo,Netherlands,Offence,8.5,0.51,4.58,2.34
+Jude Bellingham,England,Midfield,8.8,0.528,4.4,2.32
+Cristiano Ronaldo,Portugal,Offence,8.8,0.528,4.39,2.32
+Kai Havertz,Germany,Offence,8.5,0.51,4.53,2.31
+Romelu Lukaku,Belgium,Offence,8.5,0.51,4.46,2.27
+Neymar,Brazil,Offence,8.5,0.51,4.41,2.25
+Bukayo Saka,England,Offence,8.5,0.51,4.4,2.25
+Rafael Leão,Portugal,Offence,8.5,0.51,4.39,2.24
+Bruno Fernandes,Portugal,Midfield,8.5,0.51,4.39,2.24
+Luis Díaz,Colombia,Offence,8.5,0.51,4.24,2.16
+Sadio Mané,Senegal,Offence,8.5,0.51,4.01,2.05
+Darwin Núñez,Uruguay,Offence,8.5,0.51,3.91,1.99
+Erling Haaland,Norway,Offence,9.8,0.588,3.22,1.89
+Giuliano Simeone,Argentina,Offence,6.0,0.36,4.92,1.77
+José Manuel López,Argentina,Offence,6.0,0.36,4.92,1.77
+Jean-Philippe Mateta,France,Offence,6.0,0.36,4.92,1.77
+Nicolás González,Argentina,Offence,6.0,0.36,4.92,1.77
+Michael Olise,France,Offence,6.0,0.36,4.92,1.77
+Marcus Thuram-Ulien,France,Offence,6.0,0.36,4.92,1.77
+Ousmane Dembélé,France,Offence,6.0,0.36,4.92,1.77
+Bradley Barcola,France,Offence,6.0,0.36,4.92,1.77
+Jonathan David,Canada,Offence,8.5,0.51,3.36,1.71
+Borja Iglesias,Spain,Offence,6.0,0.36,4.75,1.71
+Yeremi Pino,Spain,Offence,6.0,0.36,4.75,1.71
+Nico Williams,Spain,Offence,6.0,0.36,4.75,1.71
+Víctor Muñoz,Spain,Offence,6.0,0.36,4.75,1.71
+Justin Kluivert,Netherlands,Offence,6.0,0.36,4.58,1.65
+Wout Weghorst,Netherlands,Offence,6.0,0.36,4.58,1.65
+Memphis Depay,Netherlands,Offence,6.0,0.36,4.58,1.65
+Brian Brobbey,Netherlands,Offence,6.0,0.36,4.58,1.65
+Alexander Isak,Sweden,Offence,8.5,0.51,3.21,1.64
+Viktor Gyökeres,Sweden,Offence,8.5,0.51,3.21,1.64
+Maximilian Beier,Germany,Offence,6.0,0.36,4.53,1.63
+Nick Woltemade,Germany,Offence,6.0,0.36,4.53,1.63
+Jamie Leweling,Germany,Offence,6.0,0.36,4.53,1.63
+Deniz Undav,Germany,Offence,6.0,0.36,4.53,1.63
+Leroy Sané,Germany,Offence,6.0,0.36,4.53,1.63
+Charles De Ketelaere,Belgium,Offence,6.0,0.36,4.46,1.6
+Matias Fernandez-Pardo,Belgium,Offence,6.0,0.36,4.46,1.6
+Leandro Trossard,Belgium,Offence,6.0,0.36,4.46,1.6
+Martinelli,Brazil,Offence,6.0,0.36,4.41,1.59
+Raphinha,Brazil,Offence,6.0,0.36,4.41,1.59
+Matheus Cunha,Brazil,Offence,6.0,0.36,4.41,1.59
+Thiago,Brazil,Offence,6.0,0.36,4.41,1.59
+Vinicius Junior,Brazil,Offence,6.0,0.36,4.41,1.59
+Luiz Henrique,Brazil,Offence,6.0,0.36,4.41,1.59
+Endrick,Brazil,Offence,6.0,0.36,4.41,1.59
+Ollie Watkins,England,Offence,6.0,0.36,4.4,1.59
+Ivan Toney,England,Offence,6.0,0.36,4.4,1.59
+Noni Madueke,England,Offence,6.0,0.36,4.4,1.59
+Marcus Rashford,England,Offence,6.0,0.36,4.4,1.59
+Rayan,Brazil,Offence,6.0,0.36,4.41,1.59
+Francisco Conceição,Portugal,Offence,6.0,0.36,4.39,1.58
+Gonçalo Ramos,Portugal,Offence,6.0,0.36,4.39,1.58
+João Félix,Portugal,Offence,6.0,0.36,4.39,1.58
+Trincão,Portugal,Offence,6.0,0.36,4.39,1.58
+Pedro Neto,Portugal,Offence,6.0,0.36,4.39,1.58
+Andrej Kramarić,Croatia,Offence,6.0,0.36,4.29,1.54
+Ivan Perišić,Croatia,Offence,6.0,0.36,4.29,1.54
+Ante Budimir,Croatia,Offence,6.0,0.36,4.29,1.54
+Petar Musa,Croatia,Offence,6.0,0.36,4.29,1.54
+Marco Pašalić,Croatia,Offence,6.0,0.36,4.29,1.54
+Igor Matanovic,Croatia,Offence,6.0,0.36,4.29,1.54
+Luis Suárez,Colombia,Offence,6.0,0.36,4.24,1.53
+Carlos Gómez,Colombia,Offence,6.0,0.36,4.24,1.53
+Cucho Hernández,Colombia,Offence,6.0,0.36,4.24,1.53
+Jhon Córdoba,Colombia,Offence,6.0,0.36,4.24,1.53
+Leandro Paredes,Argentina,Midfield,5.0,0.3,4.92,1.48
+Rodrigo de Paul,Argentina,Midfield,5.0,0.3,4.92,1.48
+N'Golo Kanté,France,Midfield,5.0,0.3,4.92,1.48
+Giovani Lo Celso,Argentina,Midfield,5.0,0.3,4.92,1.48
+Exequiel Palacios,Argentina,Midfield,5.0,0.3,4.92,1.48
+Alexis Mac Allister,Argentina,Midfield,5.0,0.3,4.92,1.48
+Thiago Almada,Argentina,Midfield,5.0,0.3,4.92,1.48
+Enzo Fernández,Argentina,Midfield,5.0,0.3,4.92,1.48
+Nico Paz,Argentina,Midfield,5.0,0.3,4.92,1.48
+Warren Zaïre-Emery,France,Midfield,5.0,0.3,4.92,1.48
+Desire Doue,France,Midfield,5.0,0.3,4.92,1.48
+Maghnes Akliouche,France,Midfield,5.0,0.3,4.92,1.48
+Rayan Cherki,France,Midfield,5.0,0.3,4.92,1.48
+Manu Koné,France,Midfield,5.0,0.3,4.92,1.48
+Aurélien Tchouameni,France,Midfield,5.0,0.3,4.92,1.48
+Adrien Rabiot,France,Midfield,5.0,0.3,4.92,1.48
+Abdessamad Ezzalzouli,Morocco,Offence,6.0,0.36,4.1,1.47
+Ayoub El Kaabi,Morocco,Offence,6.0,0.36,4.1,1.47
+Soufiane Rahimi,Morocco,Offence,6.0,0.36,4.1,1.47
+Gessime Yassine,Morocco,Offence,6.0,0.36,4.1,1.47
+Ayoube Amaimouni-Echghouyab,Morocco,Offence,6.0,0.36,4.1,1.47
+Ibrahim M'Baye,Senegal,Offence,6.0,0.36,4.01,1.44
+Assane Diao,Senegal,Offence,6.0,0.36,4.01,1.44
+Ahmadou Bamba Dieng,Senegal,Offence,6.0,0.36,4.01,1.44
+Nicolas Jackson,Senegal,Offence,6.0,0.36,4.01,1.44
+Cherif Ndiaye,Senegal,Offence,6.0,0.36,4.01,1.44
+Rodri,Spain,Midfield,5.0,0.3,4.75,1.43
+Dani Olmo,Spain,Midfield,5.0,0.3,4.75,1.43
+Ferrán Torres,Spain,Midfield,5.0,0.3,4.75,1.43
+Fabián Ruiz,Spain,Midfield,5.0,0.3,4.75,1.43
+Marcos Llorente,Spain,Midfield,5.0,0.3,4.75,1.43
+Martín Zubimendi,Spain,Midfield,5.0,0.3,4.75,1.43
+Mikel Merino,Spain,Midfield,5.0,0.3,4.75,1.43
+Pablo Gavira,Spain,Midfield,5.0,0.3,4.75,1.43
+Mikel Oyarzabal,Spain,Midfield,5.0,0.3,4.75,1.43
+Álex Baena,Spain,Midfield,5.0,0.3,4.75,1.43
+Roberto Alvarado,Mexico,Offence,6.0,0.36,3.94,1.42
+César Huerta,Mexico,Offence,6.0,0.36,3.94,1.42
+Guillermo Martínez,Mexico,Offence,6.0,0.36,3.94,1.42
+Alexis Vega,Mexico,Offence,6.0,0.36,3.94,1.42
+Raúl Jiménez,Mexico,Offence,6.0,0.36,3.94,1.42
+Julián Quiñones,Mexico,Offence,6.0,0.36,3.94,1.42
+Armando González,Mexico,Offence,6.0,0.36,3.94,1.42
+Santiago Giménez,Mexico,Offence,6.0,0.36,3.94,1.42
+Agustín Canobbio,Uruguay,Offence,6.0,0.36,3.91,1.41
+Rodrigo Aguirre,Uruguay,Offence,6.0,0.36,3.91,1.41
+Federico Viñas,Uruguay,Offence,6.0,0.36,3.91,1.41
+Guus Til,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Tijjani Reijnders,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Ryan Gravenberch,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Mats Wieffer,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Donyell Malen,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Marten de Roon,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Teun Koopmeiners,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Frenkie de Jong,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Quinten Timber,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Crysencio Summerville,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Noa Lang,Netherlands,Midfield,5.0,0.3,4.58,1.37
+Christian Pulisic,United States,Offence,6.0,0.36,3.78,1.36
+Max Arfsten,United States,Offence,6.0,0.36,3.78,1.36
+Assan Ouédraogo,Germany,Midfield,5.0,0.3,4.53,1.36
+Angelo Stiller,Germany,Midfield,5.0,0.3,4.53,1.36
+Tim Weah,United States,Offence,6.0,0.36,3.78,1.36
+Haji Wright,United States,Offence,6.0,0.36,3.78,1.36
+Ricardo Pepi,United States,Offence,6.0,0.36,3.78,1.36
+Felix Kalu Nmecha,Germany,Midfield,5.0,0.3,4.53,1.36
+Pascal Groß,Germany,Midfield,5.0,0.3,4.53,1.36
+Folarin Balogun,United States,Offence,6.0,0.36,3.78,1.36
+Aleksandar Pavlović,Germany,Midfield,5.0,0.3,4.53,1.36
+Nadiem Amiri,Germany,Midfield,5.0,0.3,4.53,1.36
+Joshua Kimmich,Germany,Midfield,5.0,0.3,4.53,1.36
+Leon Goretzka,Germany,Midfield,5.0,0.3,4.53,1.36
+Kevin De Bruyne,Belgium,Midfield,5.0,0.3,4.46,1.34
+Diego Moreira,Belgium,Midfield,5.0,0.3,4.46,1.34
+Amadou Onana,Belgium,Midfield,5.0,0.3,4.46,1.34
+Jeremy Doku,Belgium,Midfield,5.0,0.3,4.46,1.34
+Dodi Lukebakio,Belgium,Midfield,5.0,0.3,4.46,1.34
+Axel Witsel,Belgium,Midfield,5.0,0.3,4.46,1.34
+Youri Tielemans,Belgium,Midfield,5.0,0.3,4.46,1.34
+Hans Vanaken,Belgium,Midfield,5.0,0.3,4.46,1.34
+Alexis Saelemaekers,Belgium,Midfield,5.0,0.3,4.46,1.34
+Nicolas Raskin,Belgium,Midfield,5.0,0.3,4.46,1.34
+Breel Embolo,Switzerland,Offence,6.0,0.36,3.7,1.33
+Cédric Itten,Switzerland,Offence,6.0,0.36,3.7,1.33
+Noah Okafor,Switzerland,Offence,6.0,0.36,3.7,1.33
+Zeki Amdouni,Switzerland,Offence,6.0,0.36,3.7,1.33
+Dan Ndoye,Switzerland,Offence,6.0,0.36,3.7,1.33
+Joao Neves,Portugal,Midfield,5.0,0.3,4.39,1.32
+Rúben Neves,Portugal,Midfield,5.0,0.3,4.39,1.32
+Ritsu Doan,Japan,Offence,6.0,0.36,3.65,1.32
+Koki Ogawa,Japan,Offence,6.0,0.36,3.65,1.32
+Junya Ito,Japan,Offence,6.0,0.36,3.65,1.32
+Ayase Ueda,Japan,Offence,6.0,0.36,3.65,1.32
+Kento Shiogai,Japan,Offence,6.0,0.36,3.65,1.32
+Keisuke Goto,Japan,Offence,6.0,0.36,3.65,1.32
+Vitinha,Portugal,Midfield,5.0,0.3,4.39,1.32
+Samuel Almeida Costa,Portugal,Midfield,5.0,0.3,4.39,1.32
+Kobbie Mainoo,England,Midfield,5.0,0.3,4.4,1.32
+Gonçalo Guedes,Portugal,Midfield,5.0,0.3,4.39,1.32
+Bernardo Silva,Portugal,Midfield,5.0,0.3,4.39,1.32
+Danilo dos Santos de Oliveira,Brazil,Midfield,5.0,0.3,4.41,1.32
+Fabinho,Brazil,Midfield,5.0,0.3,4.41,1.32
+Casemiro,Brazil,Midfield,5.0,0.3,4.41,1.32
+Bruno Guimarães,Brazil,Midfield,5.0,0.3,4.41,1.32
+Jordan Henderson,England,Midfield,5.0,0.3,4.4,1.32
+Eberechi Eze,England,Midfield,5.0,0.3,4.4,1.32
+Anthony Gordon,England,Midfield,5.0,0.3,4.4,1.32
+Declan Rice,England,Midfield,5.0,0.3,4.4,1.32
+Morgan Rogers,England,Midfield,5.0,0.3,4.4,1.32
+Elliot Anderson,England,Midfield,5.0,0.3,4.4,1.32
+Lucas Paquetá,Brazil,Midfield,5.0,0.3,4.41,1.32
+Daizen Maeda,Japan,Offence,6.0,0.36,3.65,1.32
+Mohammad Mohebi,Iran,Offence,6.0,0.36,3.61,1.3
+Ali Alipour,Iran,Offence,6.0,0.36,3.61,1.3
+Amir Hosseinzadeh,Iran,Offence,6.0,0.36,3.61,1.3
+Saman Ghoddos,Iran,Offence,6.0,0.36,3.61,1.3
+Dennis Eckert,Iran,Offence,6.0,0.36,3.61,1.3
+Mehdi Taremi,Iran,Offence,6.0,0.36,3.61,1.3
+Alireza Jahanbakhsh,Iran,Offence,6.0,0.36,3.61,1.3
+Shahriar Moghanlou,Iran,Offence,6.0,0.36,3.61,1.3
+Mateo Kovačić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Luka Modrić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Nikola Vlašić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Mario Pašalić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Martin Baturina,Croatia,Midfield,5.0,0.3,4.29,1.29
+Petar Sucic,Croatia,Midfield,5.0,0.3,4.29,1.29
+Kristijan Jakić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Nikola Moro,Croatia,Midfield,5.0,0.3,4.29,1.29
+Toni Fruk,Croatia,Midfield,5.0,0.3,4.29,1.29
+Luka Sučić,Croatia,Midfield,5.0,0.3,4.29,1.29
+Gue-Sung Cho,South Korea,Offence,6.0,0.36,3.53,1.27
+Hyun-Gyu Oh,South Korea,Offence,6.0,0.36,3.53,1.27
+Jefferson Lerma,Colombia,Midfield,5.0,0.3,4.24,1.27
+Juan Portilla,Colombia,Midfield,5.0,0.3,4.24,1.27
+Hwang Heechan,South Korea,Offence,6.0,0.36,3.53,1.27
+Heung-min Son,South Korea,Offence,6.0,0.36,3.53,1.27
+Hyun-jun Yang,South Korea,Offence,6.0,0.36,3.53,1.27
+Richard Rios,Colombia,Midfield,5.0,0.3,4.24,1.27
+Ji-sung Eom,South Korea,Offence,6.0,0.36,3.53,1.27
+Gustavo Puerta,Colombia,Midfield,5.0,0.3,4.24,1.27
+Jhon Arias,Colombia,Midfield,5.0,0.3,4.24,1.27
+Jorge Carrascal,Colombia,Midfield,5.0,0.3,4.24,1.27
+Kevin Castaño,Colombia,Midfield,5.0,0.3,4.24,1.27
+Juan Quintero,Colombia,Midfield,5.0,0.3,4.24,1.27
+Jaminton Campaz,Colombia,Midfield,5.0,0.3,4.24,1.27
+James Rodríguez,Colombia,Midfield,5.0,0.3,4.24,1.27
+Cristian Volpato,Australia,Offence,6.0,0.36,3.5,1.26
+Kevin Rodríguez,Ecuador,Offence,6.0,0.36,3.51,1.26
+Nishan Velupillay,Australia,Offence,6.0,0.36,3.5,1.26
+Tete Yengi,Australia,Offence,6.0,0.36,3.5,1.26
+Nestor Irankunda,Australia,Offence,6.0,0.36,3.5,1.26
+Marko Arnautovic,Austria,Offence,6.0,0.36,3.51,1.26
+Saša Kalajdžić,Austria,Offence,6.0,0.36,3.51,1.26
+Mohamed Toure,Australia,Offence,6.0,0.36,3.5,1.26
+Michael Gregoritsch,Austria,Offence,6.0,0.36,3.51,1.26
+Jordy Caicedo,Ecuador,Offence,6.0,0.36,3.51,1.26
+Enner Valencia,Ecuador,Offence,6.0,0.36,3.51,1.26
+John Yeboah,Ecuador,Offence,6.0,0.36,3.51,1.26
+Anthony Valencia,Ecuador,Offence,6.0,0.36,3.51,1.26
+Nilson Angulo,Ecuador,Offence,6.0,0.36,3.51,1.26
+Jeremy,Ecuador,Offence,6.0,0.36,3.51,1.26
+Neil El Aynaoui,Morocco,Midfield,5.0,0.3,4.1,1.23
+Bilal El Khannouss,Morocco,Midfield,5.0,0.3,4.1,1.23
+Ayyoub Bouaddi,Morocco,Midfield,5.0,0.3,4.1,1.23
+Ismael Saibari,Morocco,Midfield,5.0,0.3,4.1,1.23
+Azzedine Ounahi,Morocco,Midfield,5.0,0.3,4.1,1.23
+Brahim Diaz,Morocco,Midfield,5.0,0.3,4.1,1.23
+Sofyan Amrabat,Morocco,Midfield,5.0,0.3,4.1,1.23
+Chemsdine Talbi,Morocco,Midfield,5.0,0.3,4.1,1.23
+Samir El Mourabet,Morocco,Midfield,5.0,0.3,4.1,1.23
+Hamza Abdelkarim,Egypt,Offence,6.0,0.36,3.36,1.21
+Mohamed Salah,Egypt,Offence,6.0,0.36,3.36,1.21
+Omar Marmoush,Egypt,Offence,6.0,0.36,3.36,1.21
+Haissem Hassan,Egypt,Offence,6.0,0.36,3.36,1.21
+Ibrahim Adel,Egypt,Offence,6.0,0.36,3.36,1.21
+Jacob Shaffelburg,Canada,Offence,6.0,0.36,3.36,1.21
+Cyle Larin,Canada,Offence,6.0,0.36,3.36,1.21
+Liam Millar,Canada,Offence,6.0,0.36,3.36,1.21
+Tani Oluwaseyi,Canada,Offence,6.0,0.36,3.36,1.21
+Promise Akinpelu,Canada,Offence,6.0,0.36,3.36,1.21
+Bara Ndiaye,Senegal,Midfield,5.0,0.3,4.01,1.2
+Pape Sarr,Senegal,Midfield,5.0,0.3,4.01,1.2
+Krépin Diatta,Senegal,Midfield,5.0,0.3,4.01,1.2
+Ismaïla Sarr,Senegal,Midfield,5.0,0.3,4.01,1.2
+Lamine Camara,Senegal,Midfield,5.0,0.3,4.01,1.2
+Habib Diarra,Senegal,Midfield,5.0,0.3,4.01,1.2
+Iliman Ndiaye,Senegal,Midfield,5.0,0.3,4.01,1.2
+Pathé Ciss,Senegal,Midfield,5.0,0.3,4.01,1.2
+Pape Gueye,Senegal,Midfield,5.0,0.3,4.01,1.2
+Idrissa Gana Guèye,Senegal,Midfield,5.0,0.3,4.01,1.2
+Anis Moussa,Algeria,Offence,6.0,0.36,3.28,1.18
+Nadhir Benbouali,Algeria,Offence,6.0,0.36,3.28,1.18
+Mohammed Amoura,Algeria,Offence,6.0,0.36,3.28,1.18
+Amine Gouiri,Algeria,Offence,6.0,0.36,3.28,1.18
+Luis Chávez,Mexico,Midfield,5.0,0.3,3.94,1.18
+Luis Romo,Mexico,Midfield,5.0,0.3,3.94,1.18
+Gilberto Mora,Mexico,Midfield,5.0,0.3,3.94,1.18
+Obed Vargas,Mexico,Midfield,5.0,0.3,3.94,1.18
+Brian Gutiérrez,Mexico,Midfield,5.0,0.3,3.94,1.18
+Álvaro Fidalgo,Mexico,Midfield,5.0,0.3,3.94,1.18
+Erik Lira,Mexico,Midfield,5.0,0.3,3.94,1.18
+Farés Ghedjemis,Algeria,Offence,6.0,0.36,3.28,1.18
+Edson Álvarez,Mexico,Midfield,5.0,0.3,3.94,1.18
+Orbelín Pineda,Mexico,Midfield,5.0,0.3,3.94,1.18
+Riyad Mahrez,Algeria,Offence,6.0,0.36,3.28,1.18
+Mojmír Chytil,Czech Republic,Offence,6.0,0.36,3.24,1.17
+Adam Hložek,Czech Republic,Offence,6.0,0.36,3.24,1.17
+Jan Kuchta,Czech Republic,Offence,6.0,0.36,3.24,1.17
+Tomáš Chorý,Czech Republic,Offence,6.0,0.36,3.24,1.17
+Patrik Schick,Czech Republic,Offence,6.0,0.36,3.24,1.17
+Giorgian De Arrascaeta,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Federico Valverde,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Facundo Pellistri,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Juan Sanabria,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Rodrigo Zalazar,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Brian Rodríguez,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Manuel Ugarte,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Rodrigo Bentancur,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Nicolas de la Cruz,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Emiliano Martínez,Uruguay,Midfield,5.0,0.3,3.91,1.17
+Yoane Wissa,DR Congo,Offence,6.0,0.36,3.22,1.16
+Azarias Londoño,Panama,Offence,6.0,0.36,3.22,1.16
+Tomas Rodriguez,Panama,Offence,6.0,0.36,3.22,1.16
+Theo Bongonda,DR Congo,Offence,6.0,0.36,3.22,1.16
+José Fajardo,Panama,Offence,6.0,0.36,3.22,1.16
+Cédric Bakambu,DR Congo,Offence,6.0,0.36,3.22,1.16
+Simon Banza,DR Congo,Offence,6.0,0.36,3.22,1.16
+Deniz Gul,Turkey,Offence,6.0,0.36,3.23,1.16
+Muhammed Kerem Aktürkoğlu,Turkey,Offence,6.0,0.36,3.23,1.16
+Meschack Elia,DR Congo,Offence,6.0,0.36,3.22,1.16
+Brian Cipenga,DR Congo,Offence,6.0,0.36,3.22,1.16
+Fiston Mayele,DR Congo,Offence,6.0,0.36,3.22,1.16
+Yunus Akgün,Turkey,Offence,6.0,0.36,3.23,1.16
+Ismael Díaz,Panama,Offence,6.0,0.36,3.22,1.16
+Nathanael Mbuku,DR Congo,Offence,6.0,0.36,3.22,1.16
+Gustaf Nilsson,Sweden,Offence,6.0,0.36,3.21,1.16
+Anthony Elanga,Sweden,Offence,6.0,0.36,3.21,1.16
+Jørgen Strand Larsen,Norway,Offence,6.0,0.36,3.22,1.16
+Benjamin Nygren,Sweden,Offence,6.0,0.36,3.21,1.16
+Alexander Bernhardsson,Sweden,Offence,6.0,0.36,3.21,1.16
+Kenan Yıldız,Turkey,Offence,6.0,0.36,3.23,1.16
+Andreas Schjelderup,Norway,Offence,6.0,0.36,3.22,1.16
+Jens Hauge,Norway,Offence,6.0,0.36,3.22,1.16
+Alexander Sørloth,Norway,Offence,6.0,0.36,3.22,1.16
+Can Uzun,Turkey,Offence,6.0,0.36,3.23,1.16
+Mohammed Muntari,Qatar,Offence,6.0,0.36,3.19,1.15
+Ahmed Alaa Eldin,Qatar,Offence,6.0,0.36,3.19,1.15
+Edmílson,Qatar,Offence,6.0,0.36,3.19,1.15
+Khalil Ayari,Tunisia,Offence,6.0,0.36,3.18,1.15
+Rayan Elloumi,Tunisia,Offence,6.0,0.36,3.18,1.15
+Hazem Mastouri,Tunisia,Offence,6.0,0.36,3.18,1.15
+Elias Saad,Tunisia,Offence,6.0,0.36,3.18,1.15
+Hassan Al Haydos,Qatar,Offence,6.0,0.36,3.19,1.15
+Tshepang Moremi,South Africa,Offence,6.0,0.36,3.19,1.15
+Almoez Ali,Qatar,Offence,6.0,0.36,3.19,1.15
+Akram Afif,Qatar,Offence,6.0,0.36,3.19,1.15
+Sebastian Tounekti,Tunisia,Offence,6.0,0.36,3.18,1.15
+Relebohile Mofokeng,South Africa,Offence,6.0,0.36,3.19,1.15
+Evidence Makgopa,South Africa,Offence,6.0,0.36,3.19,1.15
+Iqraam Rayners,South Africa,Offence,6.0,0.36,3.19,1.15
+Oswin Appollis,South Africa,Offence,6.0,0.36,3.19,1.15
+Lyle Foster,South Africa,Offence,6.0,0.36,3.19,1.15
+Firas Chaouat,Tunisia,Offence,6.0,0.36,3.18,1.15
+Gabriel Ávalos,Paraguay,Offence,6.0,0.36,3.16,1.14
+Isidro Pitta,Paraguay,Offence,6.0,0.36,3.16,1.14
+Ramón Sosa,Paraguay,Offence,6.0,0.36,3.16,1.14
+Julio Enciso,Paraguay,Offence,6.0,0.36,3.16,1.14
+Gustavo Caballero,Paraguay,Offence,6.0,0.36,3.16,1.14
+Alex Arce,Paraguay,Offence,6.0,0.36,3.16,1.14
+Lawrence Shankland,Scotland,Offence,6.0,0.36,3.16,1.14
+George Hirst,Scotland,Offence,6.0,0.36,3.16,1.14
+Khalid Al Ghannam,Saudi Arabia,Offence,6.0,0.36,3.16,1.14
+Antonio Sanabria,Paraguay,Offence,6.0,0.36,3.16,1.14
+Che Adams,Scotland,Offence,6.0,0.36,3.16,1.14
+Ross Stewart,Scotland,Offence,6.0,0.36,3.16,1.14
+Lyndon Dykes,Scotland,Offence,6.0,0.36,3.16,1.14
+Sultan Mandash,Saudi Arabia,Offence,6.0,0.36,3.16,1.14
+Abdullah Al-Hamdan,Saudi Arabia,Offence,6.0,0.36,3.16,1.14
+Saleh Al Shehri,Saudi Arabia,Offence,6.0,0.36,3.16,1.14
+Firas Al Brikan,Saudi Arabia,Offence,6.0,0.36,3.16,1.14
+Cristian Roldan,United States,Midfield,5.0,0.3,3.78,1.13
+Malik Tillman,United States,Midfield,5.0,0.3,3.78,1.13
+Sebastian Berhalter,United States,Midfield,5.0,0.3,3.78,1.13
+Gio Reyna,United States,Midfield,5.0,0.3,3.78,1.13
+Jovo Lukić,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Ermedin Demirovic,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Brenden Aaronson,United States,Midfield,5.0,0.3,3.78,1.13
+Haris Tabaković,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Samed Bazdar,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Tyler Adams,United States,Midfield,5.0,0.3,3.78,1.13
+Edin Džeko,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Alejandro Zendejas,United States,Midfield,5.0,0.3,3.78,1.13
+Weston McKennie,United States,Midfield,5.0,0.3,3.78,1.13
+Kerim Alajbegović,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Esmir Bajraktarevic,Bosnia and Herzegovina,Offence,6.0,0.36,3.15,1.13
+Prince Adu,Ghana,Offence,6.0,0.36,3.12,1.12
+Christopher Bonsu Baah,Ghana,Offence,6.0,0.36,3.12,1.12
+Abdul Issahaku,Ghana,Offence,6.0,0.36,3.12,1.12
+Ernest Nuamah,Ghana,Offence,6.0,0.36,3.12,1.12
+Kamal Deen Sulemana,Ghana,Offence,6.0,0.36,3.12,1.12
+Iñaki Williams,Ghana,Offence,6.0,0.36,3.12,1.12
+Jordan Ayew,Ghana,Offence,6.0,0.36,3.12,1.12
+Brandon Thomas-Asante,Ghana,Offence,6.0,0.36,3.12,1.12
+Antoine Semenyo,Ghana,Offence,6.0,0.36,3.12,1.12
+Denis Zakaria,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Michel Aebischer,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Johan Manzambi,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Fabian Rieder,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Ardon Jasari,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Remo Freuler,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Christian Fassnacht,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Djibril Sow,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Ruben Vargas,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Granit Xhaka,Switzerland,Midfield,5.0,0.3,3.7,1.11
+Takefusa Kubo,Japan,Midfield,5.0,0.3,3.65,1.1
+Keito Nakamura,Japan,Midfield,5.0,0.3,3.65,1.1
+Ao Tanaka,Japan,Midfield,5.0,0.3,3.65,1.1
+Kaishu Sano,Japan,Midfield,5.0,0.3,3.65,1.1
+Yuito Suzuki,Japan,Midfield,5.0,0.3,3.65,1.1
+Eldor Shomurodov,Uzbekistan,Offence,6.0,0.36,3.06,1.1
+Jaloliddin Masharipov,Uzbekistan,Offence,6.0,0.36,3.06,1.1
+Daichi Kamada,Japan,Midfield,5.0,0.3,3.65,1.1
+Wataru Endō,Japan,Midfield,5.0,0.3,3.65,1.1
+Ali Yousif,Iraq,Offence,6.0,0.36,3.07,1.1
+Mohanad Ali,Iraq,Offence,6.0,0.36,3.07,1.1
+Musa Al Taamari,Jordan,Offence,6.0,0.36,3.07,1.1
+Mahmoud Al Mardi,Jordan,Offence,6.0,0.36,3.07,1.1
+Ali Olwan,Jordan,Offence,6.0,0.36,3.07,1.1
+Mohammad Abu Zrayq,Jordan,Offence,6.0,0.36,3.07,1.1
+Mohannad Abu Taha,Jordan,Offence,6.0,0.36,3.07,1.1
+Ali Jassim El-Aibi,Iraq,Offence,6.0,0.36,3.07,1.1
+Azizbek Amonov,Uzbekistan,Offence,6.0,0.36,3.06,1.1
+Ibrahim Sabra,Jordan,Offence,6.0,0.36,3.07,1.1
+Odeh Fakhoury,Jordan,Offence,6.0,0.36,3.07,1.1
+Ruben Providence,Haiti,Offence,6.0,0.36,3.05,1.1
+Josué Casimir,Haiti,Offence,6.0,0.36,3.05,1.1
+Louicius Don Deedson,Haiti,Offence,6.0,0.36,3.05,1.1
+Lenny Joseph,Haiti,Offence,6.0,0.36,3.05,1.1
+Wilson Isidor,Haiti,Offence,6.0,0.36,3.05,1.1
+Yassin Fortune,Haiti,Offence,6.0,0.36,3.05,1.1
+Frantzdy Pierrot,Haiti,Offence,6.0,0.36,3.05,1.1
+Ali Azaizeh,Jordan,Offence,6.0,0.36,3.07,1.1
+Aymen Hussein,Iraq,Offence,6.0,0.36,3.07,1.1
+Igor Sergeev,Uzbekistan,Offence,6.0,0.36,3.06,1.1
+Marko Farji,Iraq,Offence,6.0,0.36,3.07,1.1
+Ali Al-Hamadi,Iraq,Offence,6.0,0.36,3.07,1.1
+Duckens Nazon,Haiti,Offence,6.0,0.36,3.05,1.1
+Lachlan Bayliss,New Zealand,Offence,6.0,0.36,3.02,1.09
+Matthew Garbett,New Zealand,Offence,6.0,0.36,3.02,1.09
+Ben Waine,New Zealand,Offence,6.0,0.36,3.02,1.09
+Elijah Just,New Zealand,Offence,6.0,0.36,3.02,1.09
+Kosta Barbarouses,New Zealand,Offence,6.0,0.36,3.02,1.09
+Chris Wood,New Zealand,Offence,6.0,0.36,3.02,1.09
+Jesse Randall,New Zealand,Offence,6.0,0.36,3.02,1.09
+Amir Razzaghinia,Iran,Midfield,5.0,0.3,3.61,1.08
+Medhi Ghayedi,Iran,Midfield,5.0,0.3,3.61,1.08
+Ariya Yousefi,Iran,Midfield,5.0,0.3,3.61,1.08
+Mehdi Torabi,Iran,Midfield,5.0,0.3,3.61,1.08
+Saeid Ezatolahi,Iran,Midfield,5.0,0.3,3.61,1.08
+Mohammad Ghorbani,Iran,Midfield,5.0,0.3,3.61,1.08
+Jin-Gyu Kim,South Korea,Midfield,5.0,0.3,3.53,1.06
+Joon-ho Bae,South Korea,Midfield,5.0,0.3,3.53,1.06
+Kang-in Lee,South Korea,Midfield,5.0,0.3,3.53,1.06
+Seung-Ho Paik,South Korea,Midfield,5.0,0.3,3.53,1.06
+Dong-gyeong Lee,South Korea,Midfield,5.0,0.3,3.53,1.06
+Jae-sung Lee,South Korea,Midfield,5.0,0.3,3.53,1.06
+Jens Castrop,South Korea,Midfield,5.0,0.3,3.53,1.06
+In-beom Hwang,South Korea,Midfield,5.0,0.3,3.53,1.06
+Moisés Caicedo,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Alan Franco,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Mathew Leckie,Australia,Midfield,5.0,0.3,3.5,1.05
+Jackson Irvine,Australia,Midfield,5.0,0.3,3.5,1.05
+Jordy Alcívar,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Connor Metcalfe,Australia,Midfield,5.0,0.3,3.5,1.05
+Ajdin Hrustic,Australia,Midfield,5.0,0.3,3.5,1.05
+Aiden O'Neill,Australia,Midfield,5.0,0.3,3.5,1.05
+Awer Mabil,Australia,Midfield,5.0,0.3,3.5,1.05
+Cameron Devlin,Australia,Midfield,5.0,0.3,3.5,1.05
+Gonzalo Plata,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Romano Schmid,Austria,Midfield,5.0,0.3,3.51,1.05
+Pedro Vite,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Alan Minda,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Christoph Baumgartner,Austria,Midfield,5.0,0.3,3.51,1.05
+Denil Castillo,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Ray Paez,Ecuador,Midfield,5.0,0.3,3.51,1.05
+Florian Grillitsch,Austria,Midfield,5.0,0.3,3.51,1.05
+Alessandro Schöpf,Austria,Midfield,5.0,0.3,3.51,1.05
+Konrad Laimer,Austria,Midfield,5.0,0.3,3.51,1.05
+Marcel Sabitzer,Austria,Midfield,5.0,0.3,3.51,1.05
+Xaver Schlager,Austria,Midfield,5.0,0.3,3.51,1.05
+Paul Wanner,Austria,Midfield,5.0,0.3,3.51,1.05
+Paul Okon-Engstler,Australia,Midfield,5.0,0.3,3.5,1.05
+Patrick Wimmer,Austria,Midfield,5.0,0.3,3.51,1.05
+Nicolas  Seiwald,Austria,Midfield,5.0,0.3,3.51,1.05
+Carney Chukwuemeka,Austria,Midfield,5.0,0.3,3.51,1.05
+Ali Ahmed,Canada,Midfield,5.0,0.3,3.36,1.01
+Mathieu Choinière,Canada,Midfield,5.0,0.3,3.36,1.01
+Mahmoud Saber,Egypt,Midfield,5.0,0.3,3.36,1.01
+Jonathan Osorio,Canada,Midfield,5.0,0.3,3.36,1.01
+Stephen Eustáquio,Canada,Midfield,5.0,0.3,3.36,1.01
+Marwan Attia,Egypt,Midfield,5.0,0.3,3.36,1.01
+Tajon Buchanan,Canada,Midfield,5.0,0.3,3.36,1.01
+Marcelo Flores,Canada,Midfield,5.0,0.3,3.36,1.01
+Nathan-Dylan Saliba,Canada,Midfield,5.0,0.3,3.36,1.01
+Ismael Kone,Canada,Midfield,5.0,0.3,3.36,1.01
+Mohanad Lashin,Egypt,Midfield,5.0,0.3,3.36,1.01
+Niko Sigur,Canada,Midfield,5.0,0.3,3.36,1.01
+Emam Ashour,Egypt,Midfield,5.0,0.3,3.36,1.01
+Trezeguet,Egypt,Midfield,5.0,0.3,3.36,1.01
+Hamdy Fathy,Egypt,Midfield,5.0,0.3,3.36,1.01
+Nabil Dunga,Egypt,Midfield,5.0,0.3,3.36,1.01
+Zizo,Egypt,Midfield,5.0,0.3,3.36,1.01
+Mostafa Ziko,Egypt,Midfield,5.0,0.3,3.36,1.01
+Houssem Aouar,Algeria,Midfield,5.0,0.3,3.28,0.98
+Hicham Boudaoui,Algeria,Midfield,5.0,0.3,3.28,0.98
+Ramiz Zerrouki,Algeria,Midfield,5.0,0.3,3.28,0.98
+Nabil Bentaleb,Algeria,Midfield,5.0,0.3,3.28,0.98
+Ibrahim Maza,Algeria,Midfield,5.0,0.3,3.28,0.98
+Yacine Titraoui,Algeria,Midfield,5.0,0.3,3.28,0.98
+Adil Boulbina,Algeria,Midfield,5.0,0.3,3.28,0.98
+Fares Chaïbi,Algeria,Midfield,5.0,0.3,3.28,0.98
+Gaël Kakuta,DR Congo,Midfield,5.0,0.3,3.22,0.97
+César Yanis,Panama,Midfield,5.0,0.3,3.22,0.97
+Christian Martinez,Panama,Midfield,5.0,0.3,3.22,0.97
+Carlos Harvey,Panama,Midfield,5.0,0.3,3.22,0.97
+Alberto Quintero,Panama,Midfield,5.0,0.3,3.22,0.97
+Aníbal Godoy,Panama,Midfield,5.0,0.3,3.22,0.97
+Édgar Bárcenas,Panama,Midfield,5.0,0.3,3.22,0.97
+Cecilio Waterman,Panama,Midfield,5.0,0.3,3.22,0.97
+Oguz Aydin,Turkey,Midfield,5.0,0.3,3.23,0.97
+Samuel Moutoussamy,DR Congo,Midfield,5.0,0.3,3.22,0.97
+Edo Kayembe,DR Congo,Midfield,5.0,0.3,3.22,0.97
+Aaron Tshibola,DR Congo,Midfield,5.0,0.3,3.22,0.97
+Charles Pickel,DR Congo,Midfield,5.0,0.3,3.22,0.97
+José Luis Rodríguez,Panama,Midfield,5.0,0.3,3.22,0.97
+Ngal'ayel Mukau,DR Congo,Midfield,5.0,0.3,3.22,0.97
+Orkun Kökçü,Turkey,Midfield,5.0,0.3,3.23,0.97
+İsmail Yüksek,Turkey,Midfield,5.0,0.3,3.23,0.97
+Arda Guler,Turkey,Midfield,5.0,0.3,3.23,0.97
+Baris Yilmaz,Turkey,Midfield,5.0,0.3,3.23,0.97
+İrfan Kahveci,Turkey,Midfield,5.0,0.3,3.23,0.97
+Noah Sadiki,DR Congo,Midfield,5.0,0.3,3.22,0.97
+Pavel Šulc,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Adalberto Carrasquilla,Panama,Midfield,5.0,0.3,3.22,0.97
+Patrick Berg,Norway,Midfield,5.0,0.3,3.22,0.97
+Vladimír Darida,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Tomáš Souček,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+David Douděra,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Michal Sadílek,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Oscar Bobb,Norway,Midfield,5.0,0.3,3.22,0.97
+Antonio Nusa,Norway,Midfield,5.0,0.3,3.22,0.97
+Hakan Çalhanoğlu,Turkey,Midfield,5.0,0.3,3.23,0.97
+Kristian Thorstvedt,Norway,Midfield,5.0,0.3,3.22,0.97
+Fredrik Aursnes,Norway,Midfield,5.0,0.3,3.22,0.97
+Thelo Aasgaard,Norway,Midfield,5.0,0.3,3.22,0.97
+Sander Berge,Norway,Midfield,5.0,0.3,3.22,0.97
+Denis Višinský,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Martin Ødegaard,Norway,Midfield,5.0,0.3,3.22,0.97
+Hugo Sochůrek,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Alexandr Sojka,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Salih Özcan,Turkey,Midfield,5.0,0.3,3.23,0.97
+Lukáš Červ,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Lukáš Provod,Czech Republic,Midfield,5.0,0.3,3.24,0.97
+Morten Thorsby,Norway,Midfield,5.0,0.3,3.22,0.97
+Yusuf Abdurisag,Qatar,Midfield,5.0,0.3,3.19,0.96
+Lucas Bergvall,Sweden,Midfield,5.0,0.3,3.21,0.96
+Taha Ali,Sweden,Midfield,5.0,0.3,3.21,0.96
+Besfort Zeneli,Sweden,Midfield,5.0,0.3,3.21,0.96
+Yasin Ayari,Sweden,Midfield,5.0,0.3,3.21,0.96
+Jesper Karlström,Sweden,Midfield,5.0,0.3,3.21,0.96
+Mohamed Al-Mannai,Qatar,Midfield,5.0,0.3,3.19,0.96
+Tahsin Jamshid,Qatar,Midfield,5.0,0.3,3.19,0.96
+Ahmed Al Ganehi,Qatar,Midfield,5.0,0.3,3.19,0.96
+Ken Sema,Sweden,Midfield,5.0,0.3,3.21,0.96
+Ahmed Fathy,Qatar,Midfield,5.0,0.3,3.19,0.96
+Karim Boudiaf,Qatar,Midfield,5.0,0.3,3.19,0.96
+Jayden Adams,South Africa,Midfield,5.0,0.3,3.19,0.96
+Thapelo Maseko,South Africa,Midfield,5.0,0.3,3.19,0.96
+Thalente Mbatha,South Africa,Midfield,5.0,0.3,3.19,0.96
+Kamogelo Sebelebele,South Africa,Midfield,5.0,0.3,3.19,0.96
+Themba Zwane,South Africa,Midfield,5.0,0.3,3.19,0.96
+Teboho Mokoena,South Africa,Midfield,5.0,0.3,3.19,0.96
+Mattias Svanberg,Sweden,Midfield,5.0,0.3,3.21,0.96
+Sphephelo Sithole,South Africa,Midfield,5.0,0.3,3.19,0.96
+Abdulaziz Hatem,Qatar,Midfield,5.0,0.3,3.19,0.96
+Assim Madibo,Qatar,Midfield,5.0,0.3,3.19,0.96
+Mohammed Kanno,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Braian Ojeda,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Anis Ben Slimane,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Rani Khedira,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Ellyes Skhiri,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Alaa Al Hejji,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Mohammed Abu Al Shamat,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Ziyad Al-Johani,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Diego Gómez,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Abdullah Al Khaibari,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Salem Al Dawsari,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Andrés Cubas,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Nasser Al Dawsari,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Ayman Yahya,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Miguel Almirón,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Musab Al Juwayr,Saudi Arabia,Midfield,5.0,0.3,3.16,0.95
+Mauricio,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Kaku,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Damian Bobadilla,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Scott McTominay,Scotland,Midfield,5.0,0.3,3.16,0.95
+Tyler Fletcher,Scotland,Midfield,5.0,0.3,3.16,0.95
+Matías Galarza,Paraguay,Midfield,5.0,0.3,3.16,0.95
+Findlay Curtis,Scotland,Midfield,5.0,0.3,3.16,0.95
+Ben Doak,Scotland,Midfield,5.0,0.3,3.16,0.95
+Ismaël Gharbi,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Hannibal Mejbri,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Elias Achouri,Tunisia,Midfield,5.0,0.3,3.18,0.95
+Hadj Mahmoud,Tunisia,Midfield,5.0,0.3,3.18,0.95
+John McGinn,Scotland,Midfield,5.0,0.3,3.16,0.95
+Lewis Ferguson,Scotland,Midfield,5.0,0.3,3.16,0.95
+Ryan Christie,Scotland,Midfield,5.0,0.3,3.16,0.95
+Kenny McLean,Scotland,Midfield,5.0,0.3,3.16,0.95
+Amar Memić,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Thomas Partey,Ghana,Midfield,5.0,0.3,3.12,0.94
+Caleb Yirenkyi,Ghana,Midfield,5.0,0.3,3.12,0.94
+Elisha Owusu,Ghana,Midfield,5.0,0.3,3.12,0.94
+Ermin Mahmic,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Dženis Burnić,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Ivan Šunjić,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Amir Hadžiahmetović,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Armin Gigovic,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Benjamin Tahirovic,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Ivan Bašić,Bosnia and Herzegovina,Midfield,5.0,0.3,3.15,0.94
+Augustine Boakye,Ghana,Midfield,5.0,0.3,3.12,0.94
+Kwasi Sibo,Ghana,Midfield,5.0,0.3,3.12,0.94
+Odiljon Hamrobekov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Aimar Sher,Iraq,Midfield,5.0,0.3,3.07,0.92
+Nizar Al Rashdan,Jordan,Midfield,5.0,0.3,3.07,0.92
+Rajaei Ayed,Jordan,Midfield,5.0,0.3,3.07,0.92
+Noor Al Rawabdeh,Jordan,Midfield,5.0,0.3,3.07,0.92
+Mohammad Abu Hasheesh,Jordan,Midfield,5.0,0.3,3.07,0.92
+Ibrahim Saadeh,Jordan,Midfield,5.0,0.3,3.07,0.92
+Azizjon Ganiev,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Amer Jamous,Jordan,Midfield,5.0,0.3,3.07,0.92
+Amir Al Ammari,Iraq,Midfield,5.0,0.3,3.07,0.92
+Kevin Yakob,Iraq,Midfield,5.0,0.3,3.07,0.92
+Mohammad Al-Dawoud,Jordan,Midfield,5.0,0.3,3.07,0.92
+Ibrahim Bayesh,Iraq,Midfield,5.0,0.3,3.07,0.92
+Dostonbek Xamdamov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Abbosbek Fayzullaev,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Akmal Mozgovoy,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Youssef Amyn,Iraq,Midfield,5.0,0.3,3.07,0.92
+Oston Urunov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Otabek Shukurov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Jamshid Iskanderov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Zaid Ismail,Iraq,Midfield,5.0,0.3,3.07,0.92
+Ahmed Qasem,Iraq,Midfield,5.0,0.3,3.07,0.92
+Zidane Iqbal,Iraq,Midfield,5.0,0.3,3.07,0.92
+Sherzod Esanov,Uzbekistan,Midfield,5.0,0.3,3.06,0.92
+Dominique Simon,Haiti,Midfield,5.0,0.3,3.05,0.91
+Sarpreet Singh,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Alex Rufer,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Ryan Thomas,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Carl Sainté,Haiti,Midfield,5.0,0.3,3.05,0.91
+Woodensky Pierre,Haiti,Midfield,5.0,0.3,3.05,0.91
+Joe Bell,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Ben Old,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Marko Stamenic,New Zealand,Midfield,5.0,0.3,3.02,0.91
+Danley Jean Jacques,Haiti,Midfield,5.0,0.3,3.05,0.91
+Derrick Etienne,Haiti,Midfield,5.0,0.3,3.05,0.91
+Jean-Ricner Bellegarde,Haiti,Midfield,5.0,0.3,3.05,0.91
+Leverton Pierre,Haiti,Midfield,5.0,0.3,3.05,0.91
+Callum McCowatt,New Zealand,Midfield,5.0,0.3,3.02,0.91
