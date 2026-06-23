@@ -108,7 +108,9 @@ clf = model["classifier"]
 feat_idx = tf.set_index("team")
 avg_gf = tf["avg_gf"].mean(); avg_ga = tf["avg_ga"].mean()
 sim_rank = sr.set_index("team")["p_winner"].to_dict()
-champion = sr.iloc[0]["team"]
+# Champion = winner of the Final in the bracket (single most likely path)
+_final_row = br[br["round"]=="Final"].iloc[0] if len(br[br["round"]=="Final"])>0 else None
+champion = _final_row["predicted_winner"] if _final_row is not None else sr.iloc[0]["team"]
 
 def gs(t,c,d=0.0):
     try: v=feat_idx.loc[t,c]; return float(v) if not pd.isna(v) else d
@@ -158,9 +160,9 @@ if page == "🏠 Overview":
     st.markdown("<p style='text-align:center;color:#aaa'>XGBoost + Poisson · 10,000 Monte Carlo Simulations · Live API Data</p>", unsafe_allow_html=True)
     st.markdown("---")
 
-        # Winner card
-    winner = sr.iloc[0]['team']
-    winner_prob = sr.iloc[0]['p_winner']
+        # Winner card — use bracket champion for consistency
+    winner = champion
+    winner_prob = sr[sr["team"]==champion]["p_winner"].values[0] if champion in sr["team"].values else sr.iloc[0]["p_winner"]
     
     # Why the model thinks this
     hr = int(feat_idx.loc[winner,'fifa_rank']) if winner in feat_idx.index else 0
@@ -299,7 +301,8 @@ elif page == "🏟️ Knockout Bracket":
 
     with tab1:
         st.markdown("<div class='sec'>Model's Predicted Path to Glory</div>", unsafe_allow_html=True)
-        st.markdown(f"<p style='color:#aaa;font-size:0.9em'>This shows the model's single most likely path through the tournament. <b style='color:#FFD700'>{champion}</b> has the highest overall win probability ({sr.iloc[0]['p_winner']:.1%}) across 10,000 simulations.</p>", unsafe_allow_html=True)
+        _champ_prob = sr[sr["team"]==champion]["p_winner"].values[0] if champion in sr["team"].values else 0
+        st.markdown(f"<p style='color:#aaa;font-size:0.9em'>This shows the model's single most likely path through the tournament. <b style='color:#FFD700'>{champion}</b> wins the Final and has a {_champ_prob:.1%} win probability across 10,000 simulations.</p>", unsafe_allow_html=True)
 
         def mcard(row, is_final=False):
             h=str(row["home"]); a=str(row["away"])
